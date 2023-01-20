@@ -898,3 +898,1451 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.20-11.11.52:107][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2023.01.20-11.11.52:111][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.01.20-11.11.52:178][  2]LogSlate: Took 0.001780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.20-11.13.06:570][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.20-11.20.18:350][584]LogDirectoryWatcher: Display: A directory notification failed for 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.01.20-11.20.18:358][584]LogDirectoryWatcher: Display: A directory notification failed for 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/Developers/P2654778/Collections/' because it could not be accessed. Aborting watch request...
+[2023.01.20-11.20.19:008][586]LogDirectoryWatcher: Display: A directory notification failed for 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.01.20-11.20.24:849][763]LogSlate: Took 0.002276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.20-11.20.38:419][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.01.20-11.20.50:560][501]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2023.01.20-11.20.56:047][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2023.01.20-11.20.56:724][173]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2023.01.20-11.20.57:524][266]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2023.01.20-11.20.58:951][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.20-11.21.36:406][788]LogSlate: Took 0.001906 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.20-11.21.36:426][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.01.20-11.21.38:228][788]LogSavePackage: Moving 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap068DE4DF460920A1D485668906367DF8.tmp' to 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.20-11.21.39:025][788]LogSavePackage: Moving 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataD7C92FD743AEB56795A54FA78ACC112A.tmp' to 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.01.20-11.21.39:097][788]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.20-11.21.39:097][788]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.01.20-11.21.39:098][788]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.20-11.22.17:375][398]LogTexture: Display: Building textures: T_Sci_FI_Character_08_Head_Emissive (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTexture: Display: Building textures: T_Sci_FI_Character_08_Head_Normals (OODLE_BC5, 4096X4096)
+[2023.01.20-11.22.17:375][398]LogTexture: Display: Building textures: T_Sci_FI_Character_08_Head_Ao (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:375][398]LogTexture: Display: Building textures: T_Sci_FI_Character_08_Head_Metallic (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:375][398]LogTexture: Display: Building textures: T_Sci_FI_Character_08_Head_Albedo_01 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:375][398]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Details_Emissive (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:375][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Details_Normals (OODLE_BC5, 4096X4096)
+[2023.01.20-11.22.17:376][398]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Details_Metallic (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Details_Albedo_01 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Details_Ao (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Body_Emissive (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:376][398]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Body_Ao (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Body_Normals (OODLE_BC5, 4096X4096)
+[2023.01.20-11.22.17:376][398]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Body_Metallic (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Body_Albedo_01 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.22.17:376][398]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Head_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 406EFD11EF4537B88FF57031557CE523554AE297), compiling. 
+[2023.01.20-11.22.17:426][398]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.22.17:428][398]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Details_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 472418AC8B4B2BE8A80B51644BF3F55CCD124645), compiling. 
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Started 42 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.22.17:449][398]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.22.17:450][398]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Body_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 28B8C75A80F0CE340DE51AF5400291AD5762669E), compiling. 
+[2023.01.20-11.22.17:471][398]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.22.17:489][398]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Full_02...
+[2023.01.20-11.22.17:878][398]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 84
+[2023.01.20-11.22.17:878][398]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.22.17:878][398]LogSkeletalMesh: Built Skeletal Mesh [0.39s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Full_02.SK_Sci_Fi_Character_08_Full_02
+[2023.01.20-11.22.17:949][398]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_0. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.01.20-11.22.17:979][399]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.01.20-11.22.20:096][450]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 18
+[2023.01.20-11.22.20:096][450]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.20:108][450]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.20-11.22.20:109][450]LogShaderCompilers: Display: Total job queries 126, among them cache hits 0 (0.00%)
+[2023.01.20-11.22.20:109][450]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2023.01.20-11.22.20:109][450]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.20-11.22.20:109][450]LogShaderCompilers: Display: ================================================
+[2023.01.20-11.22.20:141][451]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.01.20-11.22.20:599][465]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 16
+[2023.01.20-11.22.20:599][465]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.20:795][469]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2023.01.20-11.22.20:795][469]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.20:941][470]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2023.01.20-11.22.20:941][470]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.21:546][485]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2023.01.20-11.22.21:546][485]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.21:642][488]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2023.01.20-11.22.21:642][488]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.22:090][502]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2023.01.20-11.22.22:090][502]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.22:123][503]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2023.01.20-11.22.22:124][503]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.22:223][505]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2023.01.20-11.22.22:223][505]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.22:411][510]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2023.01.20-11.22.22:411][510]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.22:455][511]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2023.01.20-11.22.22:455][511]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.22:582][515]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2023.01.20-11.22.22:582][515]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.22:583][515]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.01.20-11.22.22:583][515]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.22:815][522]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2023.01.20-11.22.22:815][522]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.22.22:861][523]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 58
+[2023.01.20-11.22.22:862][523]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.22:862][523]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 53
+[2023.01.20-11.22.22:862][523]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.22:862][523]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 48
+[2023.01.20-11.22.22:862][523]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.22:898][524]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 43
+[2023.01.20-11.22.22:899][524]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.22:961][526]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 39
+[2023.01.20-11.22.22:961][526]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.22:991][527]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2023.01.20-11.22.22:991][527]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.23:088][530]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2023.01.20-11.22.23:088][530]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.23:252][534]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2023.01.20-11.22.23:252][534]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.23:459][540]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 26
+[2023.01.20-11.22.23:459][540]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.23:498][541]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 23
+[2023.01.20-11.22.23:498][541]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.24:344][565]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2023.01.20-11.22.24:344][565]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.25:199][591]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2023.01.20-11.22.25:199][591]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.25:275][593]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2023.01.20-11.22.25:275][593]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.25:556][601]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2023.01.20-11.22.25:556][601]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.25:806][608]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2023.01.20-11.22.25:806][608]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 11
+[2023.01.20-11.22.25:806][608]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.26:058][615]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2023.01.20-11.22.26:058][615]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.26:471][627]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2023.01.20-11.22.26:471][627]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.26:471][627]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2023.01.20-11.22.26:471][627]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.26:563][630]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2023.01.20-11.22.26:563][630]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.26:852][638]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.01.20-11.22.26:852][638]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.26:886][639]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2023.01.20-11.22.26:886][639]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.26:916][640]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2023.01.20-11.22.26:916][640]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.26:916][640]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2023.01.20-11.22.26:916][640]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.27:102][646]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2023.01.20-11.22.27:102][646]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.22.29:048][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2023.01.20-11.22.29:456][867]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2023.01.20-11.22.31:104][ 55]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Sci_Fi_Character_08_Full_02_PhysicsAsset)
+[2023.01.20-11.22.32:272][189]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2023.01.20-11.22.36:590][622]EditorErrors: New page: Actor attachment
+[2023.01.20-11.22.38:143][798]Cmd: TRANSACTION UNDO
+[2023.01.20-11.22.38:143][798]LogEditorTransaction: Undo Attach actors
+[2023.01.20-11.22.39:994][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.20-11.22.41:643][139]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Sci_Fi_Character_08_Full_02_PhysicsAsset)
+[2023.01.20-11.23.04:733][745]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-11.23.35:091][879]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.20-11.23.37:715][158]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.23.37:725][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.23.37:725][158]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:23:37)
+[2023.01.20-11.23.37:726][158]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.01.20-11.23.37:727][158]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.20-11.23.37:727][158]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.23.37:736][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008747s)
+[2023.01.20-11.23.37:737][158]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.23.37:738][158]LogPlayLevel: PIE: World Init took: (0.001366s)
+[2023.01.20-11.23.37:738][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010282s)
+[2023.01.20-11.23.37:747][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.01.20-11.23.37:750][158]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.20-11.23.37:750][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.23.37:750][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.23.37:750][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.23.37:750][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.23.37:750][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.23.37:750][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.23.37:750][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.23.37:750][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.23.37:751][158]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.23.37:751][158]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.23.37:751][158]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.23.37:751][158]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.23.37:763][158]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.23.37:763][158]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.23.37:774][158]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.23.37:774][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.23.37:774][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.23.37:774][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.23.37:775][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.23.37:775][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.23.37:775][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.23.37:775][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.23.37:775][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.23.37:775][158]LogInit: FAudioDevice initialized.
+[2023.01.20-11.23.37:775][158]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.23.37:798][158]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.23.37:800][158]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.23.37
+[2023.01.20-11.23.37:800][158]LogWorld: Bringing up level for play took: 0.001350
+[2023.01.20-11.23.37:800][158]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2023.01.20-11.23.37:837][158]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.01.20-11.23.37:837][158]PIE: Server logged in
+[2023.01.20-11.23.37:839][158]PIE: Play in editor total start time 0.116 seconds.
+[2023.01.20-11.23.47:355][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.23.47:355][268]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.23.47:355][268]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.23.47:356][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.23.47:366][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.23.47:379][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.23.47:383][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.23.47:383][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.23.47:384][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.23.47:386][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.23.47:387][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.01.20-11.23.47:422][269]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.01.20-11.23.48:417][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.20-11.24.07:336][500]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.20-11.24.07:351][500]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-11.24.22:210][933]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sci_Fi_Character_08/Demo/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2023.01.20-11.24.22:447][933]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2023.01.20-11.24.22:478][933]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Sci_Fi_Character_08/Demo/Mesh/SK_Mannequin.SK_Mannequin
+[2023.01.20-11.24.39:545][365]LogSlate: Window 'Save Asset As' being destroyed
+[2023.01.20-11.25.11:360][167]Cmd: DELETE
+[2023.01.20-11.25.11:360][167]Cmd: ACTOR DELETE
+[2023.01.20-11.25.11:362][167]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.01.20-11.25.11:366][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.01.20-11.25.11:368][167]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.01.20-11.25.13:196][386]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2023.01.20-11.25.28:614][757]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Sci_Fi_Character_08_Full_02_Skeleton, removing AnimBP from actor.
+[2023.01.20-11.25.30:503][958]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.25.30:511][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.25.30:512][958]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:25:30)
+[2023.01.20-11.25.30:561][958]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.25.30:570][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009939s)
+[2023.01.20-11.25.30:572][958]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.25.30:572][958]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2023.01.20-11.25.30:572][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011585s)
+[2023.01.20-11.25.30:582][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.20-11.25.30:582][958]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.20-11.25.30:582][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.25.30:582][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.25.30:582][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.25.30:582][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.25.30:582][958]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.25.30:582][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.25.30:582][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.25.30:582][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.25.30:583][958]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.25.30:583][958]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.25.30:583][958]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.25.30:583][958]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.25.30:585][958]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.25.30:585][958]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.25.30:594][958]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.25.30:594][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.25.30:595][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.25.30:595][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.25.30:595][958]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.25.30:595][958]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.25.30:595][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.25.30:596][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.25.30:596][958]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.25.30:596][958]LogInit: FAudioDevice initialized.
+[2023.01.20-11.25.30:596][958]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.25.30:608][958]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.25.30:609][958]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.25.30
+[2023.01.20-11.25.30:609][958]LogWorld: Bringing up level for play took: 0.000941
+[2023.01.20-11.25.30:609][958]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.01.20-11.25.30:610][958]PIE: Server logged in
+[2023.01.20-11.25.30:611][958]PIE: Play in editor total start time 0.102 seconds.
+[2023.01.20-11.25.37:684][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.25.37:684][792]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.25.37:684][792]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.25.37:685][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.25.37:691][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.25.37:719][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.25.37:723][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.25.37:723][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.25.37:724][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.25.37:726][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.25.37:728][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.20-11.25.37:761][793]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.01.20-11.25.43:603][392]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.25.43:616][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.25.43:616][392]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:25:43)
+[2023.01.20-11.25.43:616][392]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.25.43:624][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007985s)
+[2023.01.20-11.25.43:625][392]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.25.43:625][392]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2023.01.20-11.25.43:625][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009584s)
+[2023.01.20-11.25.43:637][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.01.20-11.25.43:638][392]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.20-11.25.43:638][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.25.43:638][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.25.43:638][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.25.43:638][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.25.43:638][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.25.43:638][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.25.43:638][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.25.43:638][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.25.43:638][392]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.25.43:639][392]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.25.43:639][392]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.25.43:639][392]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.25.43:640][392]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.25.43:640][392]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.25.43:650][392]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.25.43:650][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.25.43:650][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.25.43:650][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.25.43:651][392]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.25.43:651][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.25.43:651][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.25.43:652][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.25.43:652][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.25.43:652][392]LogInit: FAudioDevice initialized.
+[2023.01.20-11.25.43:652][392]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.25.43:662][392]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.25.43:663][392]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.25.43
+[2023.01.20-11.25.43:663][392]LogWorld: Bringing up level for play took: 0.001024
+[2023.01.20-11.25.43:663][392]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.01.20-11.25.43:665][392]PIE: Server logged in
+[2023.01.20-11.25.43:665][392]PIE: Play in editor total start time 0.053 seconds.
+[2023.01.20-11.25.46:045][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.25.46:045][660]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.25.46:045][660]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.25.46:045][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.25.46:051][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.25.46:078][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.25.46:083][660]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.25.46:083][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.25.46:084][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.25.46:086][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.25.46:090][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.01.20-11.25.46:124][661]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.01.20-11.25.50:540][152]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.20-11.25.52:514][359]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.25.52:524][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.25.52:524][359]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:25:52)
+[2023.01.20-11.25.52:552][359]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.25.52:562][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010364s)
+[2023.01.20-11.25.52:563][359]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.25.52:564][359]LogPlayLevel: PIE: World Init took: (0.001296s)
+[2023.01.20-11.25.52:564][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011859s)
+[2023.01.20-11.25.52:574][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.01.20-11.25.52:574][359]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.01.20-11.25.52:574][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.25.52:574][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.25.52:575][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.25.52:575][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.25.52:575][359]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.25.52:575][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.25.52:575][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.25.52:575][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.25.52:575][359]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.25.52:575][359]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.25.52:575][359]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.25.52:575][359]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.25.52:577][359]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.25.52:577][359]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.25.52:587][359]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.25.52:587][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.25.52:587][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.25.52:587][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.25.52:587][359]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.25.52:587][359]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.25.52:587][359]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.25.52:588][359]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.25.52:588][359]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.25.52:588][359]LogInit: FAudioDevice initialized.
+[2023.01.20-11.25.52:588][359]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.25.52:596][359]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.25.52:597][359]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.25.52
+[2023.01.20-11.25.52:597][359]LogWorld: Bringing up level for play took: 0.000928
+[2023.01.20-11.25.52:597][359]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.01.20-11.25.52:599][359]PIE: Server logged in
+[2023.01.20-11.25.52:599][359]PIE: Play in editor total start time 0.079 seconds.
+[2023.01.20-11.25.58:055][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.25.58:055][  5]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.25.58:055][  5]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.25.58:055][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.25.58:064][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.25.58:091][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.25.58:095][  5]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.25.58:095][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.25.58:096][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.25.58:098][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.25.58:099][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.01.20-11.25.58:133][  6]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.01.20-11.26.08:705][188]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.20-11.26.08:721][188]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-11.26.12:307][593]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.26.12:315][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.26.12:316][593]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:26:12)
+[2023.01.20-11.26.12:351][593]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.26.12:367][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015135s)
+[2023.01.20-11.26.12:368][593]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.26.12:368][593]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2023.01.20-11.26.12:368][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016567s)
+[2023.01.20-11.26.12:379][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.20-11.26.12:380][593]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.01.20-11.26.12:380][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.26.12:380][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.26.12:380][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.26.12:380][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.26.12:380][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.26.12:380][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.26.12:380][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.26.12:380][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.26.12:381][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.26.12:381][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.26.12:381][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.26.12:381][593]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.26.12:382][593]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.26.12:382][593]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.26.12:392][593]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.26.12:392][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.26.12:392][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.26.12:392][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.26.12:393][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.26.12:393][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.26.12:393][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.26.12:393][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.26.12:394][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.26.12:394][593]LogInit: FAudioDevice initialized.
+[2023.01.20-11.26.12:394][593]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.26.12:401][593]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.26.12:402][593]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.26.12
+[2023.01.20-11.26.12:402][593]LogWorld: Bringing up level for play took: 0.000974
+[2023.01.20-11.26.12:402][593]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.01.20-11.26.12:404][593]PIE: Server logged in
+[2023.01.20-11.26.12:404][593]PIE: Play in editor total start time 0.091 seconds.
+[2023.01.20-11.26.15:215][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.26.15:215][880]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.26.15:215][880]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.26.15:215][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.26.15:252][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.26.15:280][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.26.15:284][880]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.26.15:284][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.26.15:285][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.26.15:287][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.26.15:289][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.01.20-11.26.15:319][881]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.01.20-11.26.16:571][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2023.01.20-11.26.31:277][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.20-11.26.33:022][680]LogSavePackage: Moving 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap55C4CE974860818E8393F5B1F552FC61.tmp' to 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.20-11.26.33:050][680]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.778
+[2023.01.20-11.26.33:087][680]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2023.01.20-11.26.33:087][680]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.20-11.26.59:436][756]Cmd: TRANSACTION UNDO
+[2023.01.20-11.26.59:436][756]LogEditorTransaction: Undo Clicking on Actors
+[2023.01.20-11.27.05:963][464]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.01.20-11.27.06:290][501]Cmd: TRANSACTION UNDO
+[2023.01.20-11.27.06:290][501]LogEditorTransaction: Undo Clicking on Actors
+[2023.01.20-11.27.14:371][369]Cmd: TRANSACTION UNDO
+[2023.01.20-11.27.14:371][369]LogEditorTransaction: Undo Clicking on Actors
+[2023.01.20-11.27.25:274][248]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2023.01.20-11.27.27:582][493]LogEditorViewport: Clicking on Actor (context menu): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2023.01.20-11.27.37:407][658]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.01.20-11.27.38:470][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.01.20-11.27.52:504][415]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.20-11.27.52:817][415]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.01.20-11.27.53:510][415]LogSlate: Took 0.002174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.20-11.28.07:710][691]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.01.20-11.28.07:716][691]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.01.20-11.28.07:723][691]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.28.07:723][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.28.19:498][925]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2023.01.20-11.28.19:498][925]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2023.01.20-11.28.19:498][925]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2023.01.20-11.28.19:498][925]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2023.01.20-11.28.19:498][925]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2023.01.20-11.28.19:498][925]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2023.01.20-11.28.19:524][925]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/Sci_Fi_Character_08/Maps/Sci_Fi_Character_08_Demo_BuiltData.Sci_Fi_Character_08_Demo_BuiltData
+[2023.01.20-11.28.23:103][340]LogSlate: Window 'Sci_Fi_Character_08_Demo_BuiltData' being destroyed
+[2023.01.20-11.28.23:109][340]LogSlate: Window 'Sci_Fi_Character_08_Demo_BuiltData' being destroyed
+[2023.01.20-11.28.24:163][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.01.20-11.28.32:148][456]LogTexture: Display: Building textures: T_Sci_FI_Character_08_Head_Albedo_06 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Details_Albedo_02 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTexture: Display: Building textures: T_Sci_FI_Character_08_Head_Albedo_04 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTexture: Display: Building textures: T_Sci_FI_Character_08_Head_Albedo_05 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:148][456]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Body_Albedo_02 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Details_Albedo_03 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTexture: Display: Building textures: T_Sci_Fi_Character_08_Body_Albedo_03 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTexture: Display: Building textures: T_Sci_FI_Character_08_Head_Albedo_03 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTexture: Display: Building textures: T_Sci_FI_Character_08_Head_Albedo_02 (OODLE_AutoDXT, 4096X4096)
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.01.20-11.28.32:149][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Body...
+[2023.01.20-11.28.32:223][456]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Body.SK_Sci_Fi_Character_08_Body
+[2023.01.20-11.28.32:227][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Arms...
+[2023.01.20-11.28.32:248][456]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Arms.SK_Sci_Fi_Character_08_Arms
+[2023.01.20-11.28.32:251][456]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Details_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 989D3F7F3932B395105FB3402CEDF5F9B4673977), compiling. 
+[2023.01.20-11.28.32:271][456]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.28.32:291][456]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 42
+[2023.01.20-11.28.32:291][456]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 38
+[2023.01.20-11.28.32:292][456]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 34
+[2023.01.20-11.28.32:292][456]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 30
+[2023.01.20-11.28.32:292][456]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2023.01.20-11.28.32:292][456]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 22
+[2023.01.20-11.28.32:292][456]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2023.01.20-11.28.32:292][456]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 14
+[2023.01.20-11.28.32:292][456]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2023.01.20-11.28.32:292][456]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2023.01.20-11.28.32:292][456]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2023.01.20-11.28.32:292][456]LogShaderCompilers: Display: Started 42 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.32:292][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Full_01...
+[2023.01.20-11.28.32:767][456]LogSkeletalMesh: Built Skeletal Mesh [0.48s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Full_01.SK_Sci_Fi_Character_08_Full_01
+[2023.01.20-11.28.32:771][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Hat_01...
+[2023.01.20-11.28.32:802][456]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Hat_01.SK_Sci_Fi_Character_08_Hat_01
+[2023.01.20-11.28.32:806][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Hat_02...
+[2023.01.20-11.28.32:824][456]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Hat_02.SK_Sci_Fi_Character_08_Hat_02
+[2023.01.20-11.28.32:829][456]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Head_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D98A71F6A0A52E7C70F934DCBDCA1EF22FC699B), compiling. 
+[2023.01.20-11.28.32:879][456]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.28.32:928][456]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 42
+[2023.01.20-11.28.32:929][456]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.32:929][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Full_Without_Arms...
+[2023.01.20-11.28.33:598][456]LogSkeletalMesh: Built Skeletal Mesh [0.67s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Full_Without_Arms.SK_Sci_Fi_Character_08_Full_Without_Arms
+[2023.01.20-11.28.33:602][456]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Head_6 in PCD3D_SM5, Default, SM5 (DDC key hash: C682B94BE05DDA5B9CD28D32EA36B5CFCDED8886), compiling. 
+[2023.01.20-11.28.33:636][456]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.28.33:645][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sci_Fi_Character_08/Demo/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2023.01.20-11.28.33:645][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sci_Fi_Character_08/Demo/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2023.01.20-11.28.33:645][456]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Body_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 23D7780F6904BA6468266D8D4A97D35F12FE99D3), compiling. 
+[2023.01.20-11.28.33:677][456]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.28.33:680][456]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Details_3 in PCD3D_SM5, Default, SM5 (DDC key hash: FD13ABA132C6B5F497A178B4E0A174EC4816A345), compiling. 
+[2023.01.20-11.28.33:715][456]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.28.33:724][456]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Body_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 1DF89DE1A5171A1608A26154458BF2AFDEE3D42E), compiling. 
+[2023.01.20-11.28.33:759][456]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.28.33:764][456]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Head_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9C801FCE3719C3ED95A927F630AE144585075FB0), compiling. 
+[2023.01.20-11.28.33:806][456]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.28.33:811][456]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Head_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8649C13F87931C96F821891B4EC188CC799B350A), compiling. 
+[2023.01.20-11.28.33:845][456]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.28.33:851][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Bags_04...
+[2023.01.20-11.28.33:883][456]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Bags_04.SK_Sci_Fi_Character_08_Bags_04
+[2023.01.20-11.28.33:890][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Bags_Belts...
+[2023.01.20-11.28.34:033][456]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Bags_Belts.SK_Sci_Fi_Character_08_Bags_Belts
+[2023.01.20-11.28.34:037][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Head_02...
+[2023.01.20-11.28.34:064][456]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Head_02.SK_Sci_Fi_Character_08_Head_02
+[2023.01.20-11.28.34:068][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Head_01...
+[2023.01.20-11.28.34:137][456]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Head_01.SK_Sci_Fi_Character_08_Head_01
+[2023.01.20-11.28.34:160][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Shoes_Details_02...
+[2023.01.20-11.28.34:640][456]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 290
+[2023.01.20-11.28.34:641][456]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.34:641][456]LogSkeletalMesh: Built Skeletal Mesh [0.48s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Shoes_Details_02.SK_Sci_Fi_Character_08_Shoes_Details_02
+[2023.01.20-11.28.34:646][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Shoes_Details_01...
+[2023.01.20-11.28.34:652][456]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Shoes_Details_01.SK_Sci_Fi_Character_08_Shoes_Details_01
+[2023.01.20-11.28.34:655][456]LogMaterial: Display: Missing cached shadermap for M_Sci_Fi_Character_Head_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 50AD1A95AE9A327E02634E4297DD57C2D24EC2C8), compiling. 
+[2023.01.20-11.28.34:687][456]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2023.01.20-11.28.34:694][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Bags_03...
+[2023.01.20-11.28.34:770][456]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 322
+[2023.01.20-11.28.34:771][456]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.34:771][456]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Bags_03.SK_Sci_Fi_Character_08_Bags_03
+[2023.01.20-11.28.34:778][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Bags_02...
+[2023.01.20-11.28.34:873][456]LogSkeletalMesh: Built Skeletal Mesh [0.10s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Bags_02.SK_Sci_Fi_Character_08_Bags_02
+[2023.01.20-11.28.34:877][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Head_02_Details...
+[2023.01.20-11.28.34:886][456]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Head_02_Details.SK_Sci_Fi_Character_08_Head_02_Details
+[2023.01.20-11.28.34:892][456]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 312
+[2023.01.20-11.28.34:892][456]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.34:892][456]LogSkeletalMesh: Building Skeletal Mesh SK_Sci_Fi_Character_08_Bags_01...
+[2023.01.20-11.28.34:965][456]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Bags_01.SK_Sci_Fi_Character_08_Bags_01
+[2023.01.20-11.28.34:999][456]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.20-11.28.34:999][456]LogShaderCompilers: Display: Total job queries 519, among them cache hits 15 (2.89%)
+[2023.01.20-11.28.34:999][456]LogShaderCompilers: Display: Tracking 136 distinct input hashes that result in 35 distinct outputs (25.74%)
+[2023.01.20-11.28.34:999][456]LogShaderCompilers: Display: RAM used: 0.21 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2023.01.20-11.28.34:999][456]LogShaderCompilers: Display: ================================================
+[2023.01.20-11.28.35:015][456]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Sci_Fi_Character_08/Maps/Sci_Fi_Character_08_Demo.Sci_Fi_Character_08_Demo
+[2023.01.20-11.28.35:016][456]Cmd: MAP LOAD FILE="H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/Sci_Fi_Character_08/Maps/Sci_Fi_Character_08_Demo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.20-11.28.35:016][456]LightingResults: New page: Lighting Build
+[2023.01.20-11.28.35:016][456]LoadErrors: New page: Loading map: Sci_Fi_Character_08_Demo.umap
+[2023.01.20-11.28.35:099][456]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 302
+[2023.01.20-11.28.35:100][456]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.35:100][456]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.28.35:100][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.28.35:101][456]MapCheck: New page: Map Check
+[2023.01.20-11.28.35:101][456]LightingResults: New page: Lighting Build
+[2023.01.20-11.28.35:145][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.28.35:173][456]LogUObjectHash: Compacting FUObjectHashTables data took  16.58ms
+[2023.01.20-11.28.35:200][456]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sci_Fi_Character_08_Demo'.
+[2023.01.20-11.28.35:215][456]LogTexture: Display: Building textures: DeprecatedTexture816BD40344C650015A21A0A7BAC246F6 (BGRA8, 128X128)
+[2023.01.20-11.28.35:261][456]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2023.01.20-11.28.35:262][456]LogAIModule: Creating AISystem for world Sci_Fi_Character_08_Demo
+[2023.01.20-11.28.35:331][456]LogUObjectHash: Compacting FUObjectHashTables data took  13.91ms
+[2023.01.20-11.28.35:358][456]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.20-11.28.35:360][456]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.785ms to complete.
+[2023.01.20-11.28.35:360][456]LogFileHelpers: Loading map 'Sci_Fi_Character_08_Demo' took 0.344
+[2023.01.20-11.28.35:413][456]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sci_Fi_Character_08/Demo/Animations/ThirdPersonRun.ThirdPersonRun
+[2023.01.20-11.28.35:705][462]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 38
+[2023.01.20-11.28.35:705][462]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.35:801][464]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 34
+[2023.01.20-11.28.35:801][464]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.36:285][479]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2023.01.20-11.28.36:285][479]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.36:323][481]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 28
+[2023.01.20-11.28.36:323][481]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.36:627][490]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 25
+[2023.01.20-11.28.36:628][490]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.36:777][491]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2023.01.20-11.28.36:777][491]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.36:924][493]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 20
+[2023.01.20-11.28.36:924][493]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.36:966][495]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 18
+[2023.01.20-11.28.36:966][495]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.37:705][537]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2023.01.20-11.28.37:705][537]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.37:767][540]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 14
+[2023.01.20-11.28.37:767][540]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.37:847][544]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2023.01.20-11.28.37:848][544]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.38:015][548]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2023.01.20-11.28.38:015][548]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.38:172][551]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2023.01.20-11.28.38:172][551]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.38:238][553]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2023.01.20-11.28.38:238][553]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.38:490][563]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2023.01.20-11.28.38:490][563]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.38:639][572]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2023.01.20-11.28.38:639][572]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.38:662][573]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2023.01.20-11.28.38:663][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.38:944][586]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2023.01.20-11.28.38:945][586]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.39:047][588]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2023.01.20-11.28.39:047][588]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.39:124][591]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2023.01.20-11.28.39:125][591]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.39:238][594]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.01.20-11.28.39:239][594]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.28.39:532][604]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 254
+[2023.01.20-11.28.39:533][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.39:715][614]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 244
+[2023.01.20-11.28.39:715][614]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.39:716][614]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.28.39:746][614]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 234
+[2023.01.20-11.28.39:746][614]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.39:746][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.28.39:746][614]PIE: New page: PIE session: Sci_Fi_Character_08_Demo (20 Jan 2023, 11:28:39)
+[2023.01.20-11.28.39:747][614]LogPlayLevel: Creating play world package: /Game/Sci_Fi_Character_08/Maps/UEDPIE_0_Sci_Fi_Character_08_Demo
+[2023.01.20-11.28.39:771][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024195s)
+[2023.01.20-11.28.39:774][614]LogAIModule: Creating AISystem for world Sci_Fi_Character_08_Demo
+[2023.01.20-11.28.39:785][614]LogPlayLevel: PIE: World Init took: (0.013073s)
+[2023.01.20-11.28.39:785][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sci_Fi_Character_08/Maps/Sci_Fi_Character_08_Demo.Sci_Fi_Character_08_Demo to /Game/Sci_Fi_Character_08/Maps/UEDPIE_0_Sci_Fi_Character_08_Demo.Sci_Fi_Character_08_Demo (0.037881s)
+[2023.01.20-11.28.39:830][614]LogUObjectHash: Compacting FUObjectHashTables data took   9.80ms
+[2023.01.20-11.28.39:836][614]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.01.20-11.28.39:836][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.28.39:836][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.28.39:836][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.28.39:836][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.28.39:836][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.28.39:836][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.28.39:836][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.28.39:836][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.28.39:839][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.28.39:839][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.28.39:839][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.28.39:839][614]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.28.39:843][614]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.28.39:843][614]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.28.39:873][614]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.28.39:874][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.28.39:874][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.28.39:874][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.28.39:876][614]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.28.39:876][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.28.39:876][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.28.39:879][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.28.39:879][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.28.39:880][614]LogInit: FAudioDevice initialized.
+[2023.01.20-11.28.39:880][614]LogAudio: Display: Audio Device (ID: 7) registered with world 'Sci_Fi_Character_08_Demo'.
+[2023.01.20-11.28.39:907][614]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.28.39:922][614]LogWorld: Bringing World /Game/Sci_Fi_Character_08/Maps/UEDPIE_0_Sci_Fi_Character_08_Demo.Sci_Fi_Character_08_Demo up for play (max tick rate 0) at 2023.01.20-11.28.39
+[2023.01.20-11.28.39:925][614]LogWorld: Bringing up level for play took: 0.016345
+[2023.01.20-11.28.39:926][614]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.01.20-11.28.39:938][614]PIE: Server logged in
+[2023.01.20-11.28.39:940][614]PIE: Play in editor total start time 0.2 seconds.
+[2023.01.20-11.28.40:033][616]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 224
+[2023.01.20-11.28.40:033][616]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.40:115][618]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 214
+[2023.01.20-11.28.40:115][618]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.40:515][633]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 204
+[2023.01.20-11.28.40:515][633]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.40:578][635]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 194
+[2023.01.20-11.28.40:578][635]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.40:861][645]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 184
+[2023.01.20-11.28.40:861][645]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.42:953][736]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 174
+[2023.01.20-11.28.42:954][736]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.44:117][778]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 164
+[2023.01.20-11.28.44:117][778]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.44:159][779]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 154
+[2023.01.20-11.28.44:159][779]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.44:680][802]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 144
+[2023.01.20-11.28.44:680][802]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.46:158][861]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 134
+[2023.01.20-11.28.46:158][861]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.46:369][869]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 124
+[2023.01.20-11.28.46:369][869]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.47:827][929]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 114
+[2023.01.20-11.28.47:827][929]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.48:765][968]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 104
+[2023.01.20-11.28.48:765][968]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.48:980][978]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 95
+[2023.01.20-11.28.48:981][978]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.50:174][ 29]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 87
+[2023.01.20-11.28.50:174][ 29]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.50:282][ 33]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 79
+[2023.01.20-11.28.50:282][ 33]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.50:375][ 36]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 72
+[2023.01.20-11.28.50:375][ 36]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.51:183][ 72]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 65
+[2023.01.20-11.28.51:183][ 72]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.51:413][ 84]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 59
+[2023.01.20-11.28.51:413][ 84]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.53:243][168]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 54
+[2023.01.20-11.28.53:244][168]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.54:099][208]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 49
+[2023.01.20-11.28.54:099][208]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.54:892][243]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2023.01.20-11.28.54:892][243]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.54:930][244]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 40
+[2023.01.20-11.28.54:930][244]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.55:902][289]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 36
+[2023.01.20-11.28.55:902][289]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.56:260][305]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 32
+[2023.01.20-11.28.56:261][305]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.56:935][331]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 29
+[2023.01.20-11.28.56:935][331]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.56:979][332]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 26
+[2023.01.20-11.28.56:980][332]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.57:140][338]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2023.01.20-11.28.57:140][338]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.57:175][339]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2023.01.20-11.28.57:176][339]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.57:259][342]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 19
+[2023.01.20-11.28.57:259][342]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.57:533][352]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 17
+[2023.01.20-11.28.57:533][352]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.57:584][353]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2023.01.20-11.28.57:584][353]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.57:818][360]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2023.01.20-11.28.57:818][360]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.58:012][368]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2023.01.20-11.28.58:013][368]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.58:426][386]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2023.01.20-11.28.58:426][386]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.58:620][394]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2023.01.20-11.28.58:620][394]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.58:928][405]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2023.01.20-11.28.58:928][405]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2023.01.20-11.28.58:928][405]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.58:990][407]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2023.01.20-11.28.58:990][407]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.59:075][410]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2023.01.20-11.28.59:076][410]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.59:163][413]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2023.01.20-11.28.59:163][413]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.59:370][422]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2023.01.20-11.28.59:370][422]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.28.59:378][422]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2023.01.20-11.28.59:378][422]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2023.01.20-11.28.59:378][422]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-11.29.11:684][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.29.11:684][827]LogWorld: BeginTearingDown for /Game/Sci_Fi_Character_08/Maps/UEDPIE_0_Sci_Fi_Character_08_Demo
+[2023.01.20-11.29.11:684][827]LogWorld: UWorld::CleanupWorld for Sci_Fi_Character_08_Demo, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.29.11:685][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.29.11:694][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.29.11:697][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.29.11:709][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.29.11:709][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.29.11:710][827]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.29.11:715][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.20-11.29.11:751][829]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.01.20-11.29.18:484][636]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ThirdPersonWalk)
+[2023.01.20-11.29.27:864][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.01.20-11.30.50:520][311]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-11.30.50:522][311]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.20-11.30.50:538][311]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2023.01.20-11.30.53:475][311]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.01.20-11.31.21:061][542]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2023.01.20-11.31.22:659][728]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.01.20-11.31.28:767][408]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.01.20-11.31.30:502][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.20-11.31.33:170][595]LogSavePackage: Moving 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/Sci_Fi_Character_08_DemoFFE0D9BB4E041F82D2F367867F5EA81A.tmp' to 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/Sci_Fi_Character_08/Maps/Sci_Fi_Character_08_Demo.umap'
+[2023.01.20-11.31.33:224][595]AssetCheck: New page: Asset Save: Sci_Fi_Character_08_Demo
+[2023.01.20-11.31.33:224][595]LogContentValidation: Display: Validating World /Game/Sci_Fi_Character_08/Maps/Sci_Fi_Character_08_Demo.Sci_Fi_Character_08_Demo
+[2023.01.20-11.31.41:634][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.01.20-11.31.41:885][407]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.20-11.31.41:885][407]Cmd: MAP LOAD FILE="H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.20-11.31.41:885][407]LightingResults: New page: Lighting Build
+[2023.01.20-11.31.41:885][407]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2023.01.20-11.31.41:888][407]LogWorld: UWorld::CleanupWorld for Sci_Fi_Character_08_Demo, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.31.41:888][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.31.41:888][407]MapCheck: New page: Map Check
+[2023.01.20-11.31.41:889][407]LightingResults: New page: Lighting Build
+[2023.01.20-11.31.41:902][407]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.31.41:904][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.01.20-11.31.41:905][407]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.31.41:909][407]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.20-11.31.41:909][407]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.31.41:923][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.01.20-11.31.41:946][407]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.20-11.31.41:946][407]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.191ms to complete.
+[2023.01.20-11.31.41:946][407]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.061
+[2023.01.20-11.31.55:063][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.20-11.31.55:141][691]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.20-11.31.55:141][691]Cmd: MAP LOAD FILE="H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.20-11.31.55:141][691]LightingResults: New page: Lighting Build
+[2023.01.20-11.31.55:141][691]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2023.01.20-11.31.55:202][691]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.31.55:202][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.31.55:202][691]MapCheck: New page: Map Check
+[2023.01.20-11.31.55:202][691]LightingResults: New page: Lighting Build
+[2023.01.20-11.31.55:214][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.31.55:216][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.20-11.31.55:380][691]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.31.55:381][691]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.31.55:393][691]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.20-11.31.55:407][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.20-11.31.55:416][691]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.20-11.31.55:416][691]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.194ms to complete.
+[2023.01.20-11.31.55:416][691]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.274
+[2023.01.20-11.32.00:394][275]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2023.01.20-11.32.00:702][304]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2023.01.20-11.32.12:219][420]LogAnimation: Warning: AnimBP TutorialTPP_AnimBlueprint_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2023.01.20-11.32.13:565][562]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.32.13:578][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.32.13:578][562]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:32:13)
+[2023.01.20-11.32.13:610][562]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.32.13:624][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013843s)
+[2023.01.20-11.32.13:625][562]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.32.13:625][562]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2023.01.20-11.32.13:625][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015123s)
+[2023.01.20-11.32.13:640][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.01.20-11.32.13:644][562]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.01.20-11.32.13:644][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.32.13:644][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.32.13:644][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.32.13:644][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.32.13:644][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.32.13:644][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.32.13:644][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.32.13:644][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.32.13:645][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.32.13:645][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.32.13:645][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.32.13:645][562]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.32.13:646][562]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.32.13:646][562]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.32.13:656][562]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.32.13:657][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.32.13:657][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.32.13:657][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.32.13:657][562]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.32.13:657][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.32.13:657][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.32.13:658][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.32.13:658][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.32.13:658][562]LogInit: FAudioDevice initialized.
+[2023.01.20-11.32.13:658][562]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.32.13:669][562]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.32.13:670][562]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.32.13
+[2023.01.20-11.32.13:671][562]LogWorld: Bringing up level for play took: 0.000994
+[2023.01.20-11.32.13:671][562]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.01.20-11.32.13:672][562]PIE: Server logged in
+[2023.01.20-11.32.13:673][562]PIE: Play in editor total start time 0.098 seconds.
+[2023.01.20-11.32.15:813][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.32.15:813][809]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.32.15:813][809]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.32.15:814][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.32.15:819][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.32.15:847][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.32.15:860][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.32.15:860][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.32.15:861][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.32.15:866][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.01.20-11.32.15:903][810]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.01.20-11.32.30:988][193]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.20-11.32.31:004][193]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-11.32.40:313][207]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.32.40:324][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.32.40:324][207]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:32:40)
+[2023.01.20-11.32.40:324][207]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.32.40:334][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009018s)
+[2023.01.20-11.32.40:334][207]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.32.40:335][207]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2023.01.20-11.32.40:335][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010589s)
+[2023.01.20-11.32.40:350][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.01.20-11.32.40:355][207]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.01.20-11.32.40:355][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.32.40:355][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.32.40:355][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.32.40:355][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.32.40:355][207]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.32.40:355][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.32.40:355][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.32.40:355][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.32.40:355][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.32.40:355][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.32.40:355][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.32.40:355][207]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.32.40:357][207]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.32.40:357][207]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.32.40:367][207]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.32.40:367][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.32.40:367][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.32.40:367][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.32.40:367][207]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.32.40:367][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.32.40:367][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.32.40:368][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.32.40:368][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.32.40:368][207]LogInit: FAudioDevice initialized.
+[2023.01.20-11.32.40:368][207]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.32.40:376][207]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.32.40:377][207]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.32.40
+[2023.01.20-11.32.40:377][207]LogWorld: Bringing up level for play took: 0.001083
+[2023.01.20-11.32.40:377][207]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.01.20-11.32.40:379][207]PIE: Server logged in
+[2023.01.20-11.32.40:379][207]PIE: Play in editor total start time 0.058 seconds.
+[2023.01.20-11.32.43:143][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.32.43:143][518]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.32.43:143][518]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.32.43:143][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.32.43:149][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.32.43:178][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.32.43:192][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.32.43:192][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.32.43:193][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.32.43:195][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.32.43:197][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.01.20-11.32.43:235][519]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.01.20-11.32.56:571][763]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton SK_Sci_Fi_Character_08_Full_02_Skeleton, removing AnimBP from actor.
+[2023.01.20-11.33.21:882][500]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.33.21:892][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.33.21:892][500]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:33:21)
+[2023.01.20-11.33.21:920][500]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.33.21:930][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010727s)
+[2023.01.20-11.33.21:931][500]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.33.21:932][500]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2023.01.20-11.33.21:932][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011916s)
+[2023.01.20-11.33.21:947][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.01.20-11.33.21:953][500]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.01.20-11.33.21:953][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.33.21:953][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.33.21:953][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.33.21:953][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.33.21:953][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.33.21:953][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.33.21:953][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.33.21:953][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.33.21:954][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.33.21:954][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.33.21:954][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.33.21:954][500]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.33.21:956][500]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.33.21:956][500]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.33.21:966][500]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.33.21:966][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.33.21:966][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.33.21:966][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.33.21:966][500]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.33.21:966][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.33.21:966][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.33.21:967][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.33.21:967][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.33.21:967][500]LogInit: FAudioDevice initialized.
+[2023.01.20-11.33.21:967][500]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.33.21:972][500]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.33.21:973][500]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.33.21
+[2023.01.20-11.33.21:973][500]LogWorld: Bringing up level for play took: 0.000947
+[2023.01.20-11.33.21:974][500]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.01.20-11.33.21:975][500]PIE: Server logged in
+[2023.01.20-11.33.21:976][500]PIE: Play in editor total start time 0.086 seconds.
+[2023.01.20-11.33.23:312][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.33.23:312][652]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.33.23:312][652]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.33.23:313][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.33.23:322][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.33.23:353][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.33.23:364][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.33.23:364][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.33.23:365][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.33.23:367][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.33.23:370][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.01.20-11.33.23:400][653]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.01.20-11.33.41:531][318]LogSlate: Window 'Save Asset As' being destroyed
+[2023.01.20-11.34.06:802][960]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.34.06:815][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.34.06:815][960]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:34:06)
+[2023.01.20-11.34.06:815][960]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.34.06:825][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009411s)
+[2023.01.20-11.34.06:826][960]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.34.06:826][960]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2023.01.20-11.34.06:826][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010740s)
+[2023.01.20-11.34.06:841][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.01.20-11.34.06:846][960]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.01.20-11.34.06:846][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.34.06:846][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.34.06:846][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.34.06:846][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.34.06:846][960]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.34.06:846][960]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.34.06:846][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.34.06:846][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.34.06:847][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.34.06:847][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.34.06:847][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.34.06:847][960]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.34.06:849][960]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.34.06:849][960]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.34.06:858][960]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.34.06:858][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.34.06:858][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.34.06:858][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.34.06:858][960]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.34.06:858][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.34.06:858][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.34.06:859][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.34.06:859][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.34.06:859][960]LogInit: FAudioDevice initialized.
+[2023.01.20-11.34.06:859][960]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.34.06:865][960]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.34.06:866][960]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.34.06
+[2023.01.20-11.34.06:866][960]LogWorld: Bringing up level for play took: 0.000938
+[2023.01.20-11.34.06:866][960]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.01.20-11.34.06:868][960]PIE: Server logged in
+[2023.01.20-11.34.06:868][960]PIE: Play in editor total start time 0.057 seconds.
+[2023.01.20-11.34.08:703][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.34.08:703][148]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.34.08:703][148]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.34.08:703][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.34.08:713][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.34.08:741][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.34.08:754][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.34.08:754][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.34.08:754][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.34.08:756][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.34.08:759][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.01.20-11.34.08:793][149]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.01.20-11.34.18:654][286]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.01.20-11.34.23:007][689]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.01.20-11.34.23:013][689]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2023.01.20-11.34.23:061][689]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.34.23:061][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.34.38:895][370]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 90660FD3BA0F9E725B3FCEE16F16263A7EADE4E8), compiling. 
+[2023.01.20-11.34.38:906][371]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.38:906][371]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2023.01.20-11.34.38:906][371]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.01.20-11.34.38:906][371]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 41
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 37
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 33
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 29
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 25
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2023.01.20-11.34.38:938][371]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.38:960][371]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A04A95D29026B2993326A2C16C96E2695F5A598B), compiling. 
+[2023.01.20-11.34.38:972][372]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.38:985][372]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.39:002][372]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0F36CA9B6AD7D24F6636EEB2C4FEDB2239F9950E), compiling. 
+[2023.01.20-11.34.39:017][373]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.39:031][373]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.39:058][373]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BF335B8C6171EB3FF5E8AB120705421BFC03FA2A), compiling. 
+[2023.01.20-11.34.39:077][374]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.39:118][375]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.40:098][393]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2023.01.20-11.34.40:098][393]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.40:102][393]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.20-11.34.40:102][393]LogShaderCompilers: Display: Total job queries 720, among them cache hits 44 (6.11%)
+[2023.01.20-11.34.40:102][393]LogShaderCompilers: Display: Tracking 505 distinct input hashes that result in 38 distinct outputs (7.52%)
+[2023.01.20-11.34.40:102][393]LogShaderCompilers: Display: RAM used: 0.24 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2023.01.20-11.34.40:102][393]LogShaderCompilers: Display: ================================================
+[2023.01.20-11.34.40:305][396]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2023.01.20-11.34.40:305][396]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.40:805][407]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2023.01.20-11.34.40:805][407]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.41:293][421]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2023.01.20-11.34.41:294][421]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.41:330][422]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2023.01.20-11.34.41:331][422]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.41:331][422]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2023.01.20-11.34.41:331][422]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-11.34.41:727][432]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 124
+[2023.01.20-11.34.41:727][432]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.42:020][440]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 114
+[2023.01.20-11.34.42:020][440]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.42:170][443]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 104
+[2023.01.20-11.34.42:170][443]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.42:296][447]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 95
+[2023.01.20-11.34.42:296][447]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.42:296][447]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 87
+[2023.01.20-11.34.42:296][447]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.42:328][448]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 79
+[2023.01.20-11.34.42:329][448]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.42:364][449]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 72
+[2023.01.20-11.34.42:364][449]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.42:458][452]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 65
+[2023.01.20-11.34.42:458][452]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 59
+[2023.01.20-11.34.42:458][452]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.42:594][455]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 53
+[2023.01.20-11.34.42:594][455]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.42:932][463]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 48
+[2023.01.20-11.34.42:932][463]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.44:054][483]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 43
+[2023.01.20-11.34.44:054][483]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.44:652][494]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 39
+[2023.01.20-11.34.44:652][494]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.46:088][522]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 35
+[2023.01.20-11.34.46:088][522]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.46:489][528]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2023.01.20-11.34.46:489][528]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.46:655][532]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 29
+[2023.01.20-11.34.46:655][532]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.46:792][535]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2023.01.20-11.34.46:792][535]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.47:112][542]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 23
+[2023.01.20-11.34.47:113][542]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.47:497][550]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2023.01.20-11.34.47:497][550]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.47:663][552]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 19
+[2023.01.20-11.34.47:663][552]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.47:869][556]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2023.01.20-11.34.47:869][556]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.48:037][559]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 15
+[2023.01.20-11.34.48:037][559]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.48:444][570]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 13
+[2023.01.20-11.34.48:444][570]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.48:479][571]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2023.01.20-11.34.48:479][571]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.48:671][577]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2023.01.20-11.34.48:671][577]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.48:936][584]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2023.01.20-11.34.48:936][584]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.49:067][587]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2023.01.20-11.34.49:068][587]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.49:111][588]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2023.01.20-11.34.49:111][588]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.49:309][593]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2023.01.20-11.34.49:310][593]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.49:344][594]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2023.01.20-11.34.49:345][594]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.49:476][597]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2023.01.20-11.34.49:476][597]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.49:571][599]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2023.01.20-11.34.49:571][599]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.49:692][602]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2023.01.20-11.34.49:692][602]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.49:733][603]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.01.20-11.34.49:733][603]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-11.34.55:784][173]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2023.01.20-11.35.04:499][173]LogSlate: Window 'Message' being destroyed
+[2023.01.20-11.35.04:503][173]Message dialog closed, result: Ok, title: Message, text: Must specify a valid skeleton for the Anim Blueprint to target.
+[2023.01.20-11.35.51:768][173]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.01.20-11.35.51:774][173]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.01.20-11.35.51:857][173]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.01.20-11.35.53:737][364]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> NewAnimBlueprint
+[2023.01.20-11.35.53:741][364]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.01.20-11.35.55:257][527]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Sci_Fi_Character_08/Demo/Animations/NewAnimBlueprint.NewAnimBlueprint
+[2023.01.20-11.35.55:282][527]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.01.20-11.35.55:288][527]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.01.20-11.35.55:370][527]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.01.20-11.35.55:433][527]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.35.55:445][527]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2023.01.20-11.36.08:819][738]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.36.14:337][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.36.17:872][389]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.36.29:188][521]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Arms.SK_Sci_Fi_Character_08_Arms
+[2023.01.20-11.36.29:193][521]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.36.31:071][660]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Body_Skeleton.SK_Sci_Fi_Character_08_Body_Skeleton
+[2023.01.20-11.36.31:074][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.36.34:430][890]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.36.34:430][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.36.35:408][972]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.36.35:408][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.36.45:735][770]LogSlate: Window 'Create New Animation Object' being destroyed
+[2023.01.20-11.36.57:465][ 33]Cmd: TRANSACTION UNDO
+[2023.01.20-11.36.57:465][ 33]LogEditorTransaction: Undo Add New Function
+[2023.01.20-11.36.57:578][ 33]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.37.07:988][495]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2023.01.20-11.37.08:015][495]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Body_Skeleton_Sequence.SK_Sci_Fi_Character_08_Body_Skeleton_Sequence
+[2023.01.20-11.37.08:018][495]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.37.08:601][495]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.01.20-11.37.10:838][717]LogSlate: Window 'SK_Sci_Fi_Character_08_Body_Skeleton_Sequence' being destroyed
+[2023.01.20-11.37.10:843][717]LogSlate: Window 'SK_Sci_Fi_Character_08_Body_Skeleton_Sequence' being destroyed
+[2023.01.20-11.37.10:865][717]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.37.10:865][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.37.10:877][717]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.37.10:877][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.37.10:988][717]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.37.10:988][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.37.11:001][717]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.37.11:001][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.37.11:022][717]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.37.11:022][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.37.11:099][717]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.37.11:099][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.37.16:704][279]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2023.01.20-11.37.18:097][279]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.20-11.37.18:153][279]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sci_Fi_Character_08/Demo/Animations/NewAnimBlueprint.NewAnimBlueprint
+[2023.01.20-11.37.19:124][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.01.20-11.37.25:851][987]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-11.37.25:853][987]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.01.20-11.37.25:869][987]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2023.01.20-11.37.42:111][987]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.01.20-11.37.42:116][987]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.01.20-11.37.42:171][987]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.01.20-11.37.54:110][306]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> SciFiGuy
+[2023.01.20-11.37.54:116][306]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.01.20-11.37.56:171][533]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Sci_Fi_Character_08/Demo/Animations/SciFiGuy.SciFiGuy
+[2023.01.20-11.37.56:174][533]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.38.02:087][ 81]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Sci_Fi_Character_08/Mesh/Character/SK_Sci_Fi_Character_08_Full_01.SK_Sci_Fi_Character_08_Full_01
+[2023.01.20-11.38.02:089][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.38.04:720][308]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Sci_Fi_Character_08/Demo/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2023.01.20-11.38.04:722][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.38.13:075][154]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.38.13:075][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.38.14:226][256]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.38.14:226][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.38.56:654][434]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Sci_Fi_Character_08/Demo/Animations/ThirdPersonRun.ThirdPersonRun
+[2023.01.20-11.38.56:657][434]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.38.56:958][434]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.01.20-11.39.03:950][ 32]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.39.03:950][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.39.03:963][ 32]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.39.03:963][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.39.04:154][ 32]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.39.04:154][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.39.58:439][331]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Sci_Fi_Character_08/Demo/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2023.01.20-11.39.58:441][331]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.39.58:723][331]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.01.20-11.40.00:944][543]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.40.00:944][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.40.00:957][543]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.40.00:957][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.40.01:087][543]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.40.01:087][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.40.29:151][249]LogSlate: Window 'SciFiGuy' being destroyed
+[2023.01.20-11.40.29:157][249]LogSlate: Window 'SciFiGuy' being destroyed
+[2023.01.20-11.40.29:191][249]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.40.29:191][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.40.29:202][249]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.40.29:202][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.40.29:387][249]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.40.29:387][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.40.31:622][476]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Sci_Fi_Character_08/Demo/Animations/SciFiGuy.SciFiGuy
+[2023.01.20-11.40.31:626][476]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.20-11.40.32:137][476]LogSlate: Took 0.002181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.20-11.40.42:082][118]LogSlate: Window 'SciFiGuy' being destroyed
+[2023.01.20-11.40.42:085][118]LogSlate: Window 'SciFiGuy' being destroyed
+[2023.01.20-11.40.42:093][118]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.40.42:093][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.40.42:101][118]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.40.42:101][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.40.42:256][118]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.40.42:256][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.40.46:618][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.01.20-11.40.48:360][445]LogSavePackage: Moving 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMapA701F5F745B9DA9578A2898CA24AE6F3.tmp' to 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.20-11.40.48:965][445]LogSavePackage: Moving 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataBD8838404D2E848EDF90F19D3156B85C.tmp' to 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.01.20-11.40.49:031][445]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.20-11.40.49:031][445]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.20-11.40.49:031][445]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.01.20-11.41.10:072][752]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.01.20-11.41.10:087][752]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-11.41.13:650][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2023.01.20-11.41.14:484][220]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2023.01.20-11.41.15:565][325]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.41.15:573][325]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.20-11.41.15:573][325]LogPlayLevel: [PlayLevel] Compiling SciFiGuy before play...
+[2023.01.20-11.41.15:597][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.01.20-11.41.15:602][325]LogPlayLevel: PlayLevel: Blueprint regeneration took 29 ms (1 blueprints)
+[2023.01.20-11.41.15:603][325]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:41:15)
+[2023.01.20-11.41.15:603][325]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.41.15:612][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009129s)
+[2023.01.20-11.41.15:613][325]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.41.15:613][325]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2023.01.20-11.41.15:613][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010627s)
+[2023.01.20-11.41.15:629][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.01.20-11.41.15:629][325]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.01.20-11.41.15:629][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.41.15:629][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.41.15:629][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.41.15:629][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.41.15:629][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.41.15:629][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.41.15:629][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.41.15:629][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.41.15:630][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.41.15:630][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.41.15:630][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.41.15:630][325]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.41.15:632][325]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.41.15:632][325]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.41.15:642][325]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.41.15:643][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.41.15:643][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.41.15:643][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.41.15:643][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.41.15:643][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.41.15:643][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.41.15:644][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.41.15:644][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.41.15:644][325]LogInit: FAudioDevice initialized.
+[2023.01.20-11.41.15:644][325]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.41.15:650][325]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.41.15:651][325]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.41.15
+[2023.01.20-11.41.15:651][325]LogWorld: Bringing up level for play took: 0.000944
+[2023.01.20-11.41.15:651][325]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2023.01.20-11.41.15:653][325]PIE: Server logged in
+[2023.01.20-11.41.15:654][325]PIE: Play in editor total start time 0.084 seconds.
+[2023.01.20-11.41.18:180][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.41.18:180][593]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.41.18:181][593]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.41.18:181][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.41.18:188][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.41.18:217][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.41.18:229][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.41.18:229][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.41.18:230][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.41.18:235][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.01.20-11.41.18:270][594]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.01.20-11.41.40:663][  8]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-11.41.40:671][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-11.41.40:671][  8]PIE: New page: PIE session: ThirdPersonExampleMap (20 Jan 2023, 11:41:40)
+[2023.01.20-11.41.40:671][  8]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.41.40:680][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008636s)
+[2023.01.20-11.41.40:681][  8]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.20-11.41.40:681][  8]LogPlayLevel: PIE: World Init took: (0.001361s)
+[2023.01.20-11.41.40:681][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010118s)
+[2023.01.20-11.41.40:697][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.20-11.41.40:702][  8]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.01.20-11.41.40:702][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-11.41.40:702][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-11.41.40:702][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-11.41.40:702][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-11.41.40:702][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-11.41.40:702][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-11.41.40:702][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-11.41.40:702][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-11.41.40:702][  8]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-11.41.40:702][  8]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-11.41.40:702][  8]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-11.41.40:702][  8]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-11.41.40:704][  8]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-11.41.40:704][  8]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-11.41.40:714][  8]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.01.20-11.41.40:714][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-11.41.40:714][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-11.41.40:714][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-11.41.40:714][  8]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-11.41.40:714][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-11.41.40:714][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-11.41.40:715][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-11.41.40:715][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-11.41.40:715][  8]LogInit: FAudioDevice initialized.
+[2023.01.20-11.41.40:715][  8]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2023.01.20-11.41.40:723][  8]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.20-11.41.40:724][  8]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.01.20-11.41.40
+[2023.01.20-11.41.40:724][  8]LogWorld: Bringing up level for play took: 0.000926
+[2023.01.20-11.41.40:724][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2023.01.20-11.41.40:726][  8]PIE: Server logged in
+[2023.01.20-11.41.40:726][  8]PIE: Play in editor total start time 0.058 seconds.
+[2023.01.20-11.41.43:150][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.41.43:150][247]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.20-11.41.43:150][247]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-11.41.43:150][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.41.43:155][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-11.41.43:184][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-11.41.43:197][247]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-11.41.43:197][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.41.43:198][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-11.41.43:200][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-11.41.43:202][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.01.20-11.41.43:255][248]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.01.20-11.41.46:936][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.01.20-11.41.48:545][561]LogSavePackage: Moving 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap4881E7034887B36926E7FCA0CA2677AC.tmp' to 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.20-11.41.49:203][561]LogSavePackage: Moving 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataD861877B47F8CA49082BCEB9CD1F5D82.tmp' to 'H:/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.01.20-11.41.49:270][561]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.20-11.41.49:270][561]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.20-11.41.49:270][561]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
