@@ -2790,3 +2790,94 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.27-16.14.56:424][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.01.27-16.14.56:427][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
 [2023.01.27-16.14.56:448][976]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.01.27-16.18.05:589][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.01.27-16.18.05:608][729]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_Auto35E50DDDF4902DE83BA05F18AA4D4DAF5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2023.01.27-16.18.05:609][729]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.047
+[2023.01.27-16.18.05:609][729]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2023.01.27-16.18.05:609][729]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_WeaponShooter] ([2] browsable assets)...
+[2023.01.27-16.18.05:628][729]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_WeaponShooter.BP_WeaponShooter]
+[2023.01.27-16.18.05:628][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_WeaponShooter]
+[2023.01.27-16.18.05:640][729]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/BP_WeaponShooter_Auto3A0E9E9534893F46E4281A7AE01AC36FF.tmp' to '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/Autosaves/Game/BP_WeaponShooter_Auto3.uasset'
+[2023.01.27-16.18.05:641][729]LogFileHelpers: Auto-saving content packages took 0.031
+[2023.01.27-16.22.28:620][ 28]LogEditorTransaction: Undo Set Vector Property
+[2023.01.27-16.22.38:330][561]BlueprintLog: New page: Compile BP_WeaponShooter
+[2023.01.27-16.22.38:396][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.01.27-16.22.41:732][746]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.27-16.22.41:737][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.27-16.22.41:737][746]PIE: New page: PIE session: ThirdPersonExampleMap (27 Jan 2023, 16:22:41)
+[2023.01.27-16.22.41:737][746]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.27-16.22.41:747][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009470s)
+[2023.01.27-16.22.41:748][746]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.01.27-16.22.41:749][746]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2023.01.27-16.22.41:749][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011191s)
+[2023.01.27-16.22.41:775][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.01.27-16.22.41:777][746]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.01.27-16.22.41:777][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.27-16.22.41:777][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.27-16.22.41:777][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.27-16.22.41:777][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.27-16.22.41:777][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.27-16.22.41:777][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.27-16.22.41:777][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.27-16.22.41:777][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.27-16.22.41:778][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.27-16.22.41:778][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.27-16.22.41:778][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.27-16.22.41:778][746]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.27-16.22.41:781][746]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.27-16.22.41:781][746]LogAudioMixer: Display: 1: FrontRight
+[2023.01.27-16.22.41:788][746]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.01.27-16.22.41:789][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.27-16.22.41:789][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.27-16.22.41:789][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.27-16.22.41:789][746]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.27-16.22.41:789][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.27-16.22.41:789][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.27-16.22.41:790][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.27-16.22.41:790][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.27-16.22.41:790][746]LogInit: FAudioDevice initialized.
+[2023.01.27-16.22.41:790][746]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2023.01.27-16.22.41:796][746]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.01.27-16.22.41:798][746]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.01.27-16.22.41
+[2023.01.27-16.22.41:799][746]LogWorld: Bringing up level for play took: 0.001390
+[2023.01.27-16.22.41:799][746]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.01.27-16.22.41:801][746]PIE: Server logged in
+[2023.01.27-16.22.41:802][746]PIE: Play in editor total start time 0.066 seconds.
+[2023.01.27-16.22.56:636][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.22.56:636][634]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.01.27-16.22.56:636][634]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-16.22.56:637][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.22.56:647][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.27-16.22.56:659][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.22.56:685][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.27-16.22.56:685][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.27-16.22.56:686][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.27-16.22.56:688][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.22.56:692][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.01.27-16.22.56:713][635]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.01.27-16.28.03:853][ 27]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{55ad52e4-f486-454d-8bb2-bbb54263a39f}.
+[2023.01.27-16.28.03:853][ 27]LogAudioMixer: Resetting audio stream to device id 
+[2023.01.27-16.28.04:508][ 27]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.27-16.28.04:508][ 27]LogAudioMixer: Display: 1: FrontRight
+[2023.01.27-16.28.04:768][ 28]LogAudioMixer: Resetting audio stream to device id 
+[2023.01.27-16.28.04:886][ 28]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.27-16.28.04:886][ 28]LogAudioMixer: Display: 1: FrontRight
+[2023.01.27-16.28.05:925][ 31]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2bdd23be-9b3f-4e0a-ab90-b7e79533d340}.
+[2023.01.27-16.28.05:925][ 31]LogAudioMixer: Resetting audio stream to device id 
+[2023.01.27-16.28.05:933][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.27-16.28.05:933][ 31]LogAudioMixer: Display: 1: FrontRight
+[2023.01.27-16.28.40:147][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.01.27-16.28.40:168][971]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_Auto448F459C042C91B042885F5B0452AE634.tmp' to '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2023.01.27-16.28.40:170][971]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.055
+[2023.01.27-16.28.40:170][971]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2023.01.27-16.28.40:170][971]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_WeaponShooter] ([2] browsable assets)...
+[2023.01.27-16.28.40:179][971]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_WeaponShooter.BP_WeaponShooter]
+[2023.01.27-16.28.40:179][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_WeaponShooter]
+[2023.01.27-16.28.40:194][971]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/BP_WeaponShooter_Auto4C7829FE4484719F53C515D917F966E90.tmp' to '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/Autosaves/Game/BP_WeaponShooter_Auto4.uasset'
+[2023.01.27-16.28.40:195][971]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.01.27-16.33.29:853][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.01.27-16.33.29:874][346]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMapD9B800174A91239499C8AD88971AAB37.tmp' to '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.01.27-16.33.29:960][346]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataEF48EC2F42E3B0613CE622A1828EC8FE.tmp' to '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.01.27-16.33.29:977][346]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.27-16.33.29:977][346]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.01.27-16.33.29:977][346]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
