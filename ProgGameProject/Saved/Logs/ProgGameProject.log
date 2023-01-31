@@ -1170,3 +1170,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.30-21.07.12:538][942]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.30-21.07.12:538][942]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.01.30-21.07.12:538][942]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.01.30-21.37.23:861][754]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.30-21.42.22:839][641]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{55ad52e4-f486-454d-8bb2-bbb54263a39f}.
+[2023.01.30-21.42.22:841][641]LogAudioMixer: Resetting audio stream to device id 
+[2023.01.30-21.42.22:852][641]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.30-21.42.22:852][641]LogAudioMixer: Display: 1: FrontRight
+[2023.01.30-21.42.42:048][698]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2bdd23be-9b3f-4e0a-ab90-b7e79533d340}.
+[2023.01.30-21.42.42:048][698]LogAudioMixer: Resetting audio stream to device id 
+[2023.01.30-21.42.42:209][698]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.30-21.42.42:210][698]LogAudioMixer: Display: 1: FrontRight
+[2023.01.31-00.51.20:874][408]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.01.31-00.54.48:525][ 26]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
