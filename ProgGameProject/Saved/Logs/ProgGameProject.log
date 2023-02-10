@@ -3299,3 +3299,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.10-11.05.03:010][ 22]AssetCheck: New page: Asset Save: multiple assets
 [2023.02.10-11.05.03:010][ 22]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.02.10-11.05.03:010][ 22]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.02.10-11.05.48:994][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.02.10-11.05.49:035][317]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap2C78724648A36D6D8E4A3885CB56E181.tmp' to '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.02.10-11.05.49:169][317]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataE1801A484BC0F9FE376492882B5EA351.tmp' to '../../../../../../Users/Jack/Documents/GitHub/ProgressiveGamesProject/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.02.10-11.05.49:204][317]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.10-11.05.49:204][317]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.02.10-11.05.49:204][317]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
