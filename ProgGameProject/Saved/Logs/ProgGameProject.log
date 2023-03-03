@@ -1870,3 +1870,765 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2023.03.03-13.55.36:983][124]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.03-13.55.36:983][124]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level_One_Map_BuiltData.Level_One_Map_BuiltData
 [2023.03.03-13.55.36:983][124]LogContentValidation: Display: Validating World /Game/Levels/Level_One_Map.Level_One_Map
+[2023.03.03-13.59.55:012][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.03-13.59.55:047][ 35]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/Level_One_Map3DF5E6B140A4D870DF38288B07DB5EEA.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/Levels/Level_One_Map.umap'
+[2023.03.03-13.59.55:072][ 35]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/Level_One_Map_BuiltDataC079A68542D1465D92A7F992B021D80C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/Levels/Level_One_Map_BuiltData.uasset'
+[2023.03.03-13.59.55:087][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-13.59.55:087][ 35]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level_One_Map_BuiltData.Level_One_Map_BuiltData
+[2023.03.03-13.59.55:087][ 35]LogContentValidation: Display: Validating World /Game/Levels/Level_One_Map.Level_One_Map
+[2023.03.03-13.59.56:100][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.03-13.59.56:110][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.03-13.59.56:110][ 78]PIE: New page: PIE session: Level_One_Map (3 Mar 2023, 13:59:56)
+[2023.03.03-13.59.56:110][ 78]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_One_Map
+[2023.03.03-13.59.56:117][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005968s)
+[2023.03.03-13.59.56:118][ 78]LogAIModule: Creating AISystem for world Level_One_Map
+[2023.03.03-13.59.56:118][ 78]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2023.03.03-13.59.56:118][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_One_Map.Level_One_Map to /Game/Levels/UEDPIE_0_Level_One_Map.Level_One_Map (0.007681s)
+[2023.03.03-13.59.56:124][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.03-13.59.56:125][ 78]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.03-13.59.56:125][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.03-13.59.56:125][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.03-13.59.56:125][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.03-13.59.56:125][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.03-13.59.56:125][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.03-13.59.56:125][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.03-13.59.56:125][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.03-13.59.56:125][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.03-13.59.56:125][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.03-13.59.56:126][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.03-13.59.56:126][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.03-13.59.56:126][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.03-13.59.56:128][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.03-13.59.56:128][ 78]LogAudioMixer: Display: 1: FrontRight
+[2023.03.03-13.59.56:140][ 78]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.03.03-13.59.56:140][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.03-13.59.56:140][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.03-13.59.56:140][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.03-13.59.56:142][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.03-13.59.56:142][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.03-13.59.56:142][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.03-13.59.56:143][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.03-13.59.56:143][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.03-13.59.56:143][ 78]LogInit: FAudioDevice initialized.
+[2023.03.03-13.59.56:143][ 78]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level_One_Map'.
+[2023.03.03-13.59.56:153][ 78]LogLoad: Game class is 'BP_GameMode_HUD_C'
+[2023.03.03-13.59.56:154][ 78]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_One_Map.Level_One_Map up for play (max tick rate 60) at 2023.03.03-13.59.56
+[2023.03.03-13.59.56:154][ 78]LogWorld: Bringing up level for play took: 0.001031
+[2023.03.03-13.59.56:155][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.03.03-13.59.56:159][ 78]PIE: Server logged in
+[2023.03.03-13.59.56:160][ 78]PIE: Play in editor total start time 0.052 seconds.
+[2023.03.03-14.00.12:340][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.00.12:340][ 45]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_One_Map
+[2023.03.03-14.00.12:340][ 45]LogWorld: UWorld::CleanupWorld for Level_One_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.03-14.00.12:340][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.00.12:351][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.03-14.00.12:358][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.00.12:363][ 45]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.03-14.00.12:363][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.00.12:365][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.00.12:366][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.00.12:368][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.03-14.00.12:435][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.03.03-14.00.14:219][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.03-14.00.14:251][153]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/Level_One_Map045254744DD8B4B156426F81DF5535A3.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/Levels/Level_One_Map.umap'
+[2023.03.03-14.00.14:273][153]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/Level_One_Map_BuiltData6A5F691D4B24FE4734A849BC9AFA7632.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/Levels/Level_One_Map_BuiltData.uasset'
+[2023.03.03-14.00.14:285][153]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.00.14:285][153]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level_One_Map_BuiltData.Level_One_Map_BuiltData
+[2023.03.03-14.00.14:285][153]LogContentValidation: Display: Validating World /Game/Levels/Level_One_Map.Level_One_Map
+[2023.03.03-14.00.34:263][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.03-14.00.34:297][343]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/Level_One_MapF1077C22426A8C4865236FAF2F65AFD5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/Levels/Level_One_Map.umap'
+[2023.03.03-14.00.34:319][343]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/Level_One_Map_BuiltDataA907A68D48B65F31CF29599475F0D52F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/Levels/Level_One_Map_BuiltData.uasset'
+[2023.03.03-14.00.34:331][343]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.00.34:331][343]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level_One_Map_BuiltData.Level_One_Map_BuiltData
+[2023.03.03-14.00.34:331][343]LogContentValidation: Display: Validating World /Game/Levels/Level_One_Map.Level_One_Map
+[2023.03.03-14.02.51:488][564]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.02.53:105][660]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.02.53:632][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.03.03-14.02.53:665][690]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/Level_One_Map5A562D2F4151E46A44461DA378DB854A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/Levels/Level_One_Map.umap'
+[2023.03.03-14.02.53:687][690]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/Level_One_Map_BuiltData3D40CAAF4646C50AC0CF058DDE387792.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/Levels/Level_One_Map_BuiltData.uasset'
+[2023.03.03-14.02.53:699][690]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.02.53:699][690]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level_One_Map_BuiltData.Level_One_Map_BuiltData
+[2023.03.03-14.02.53:699][690]LogContentValidation: Display: Validating World /Game/Levels/Level_One_Map.Level_One_Map
+[2023.03.03-14.02.55:118][774]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.03.01:521][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.03-14.03.02:736][150]LogSlate: Window 'Save Content' being destroyed
+[2023.03.03-14.03.02:773][150]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/LevelTwo_CamRail_Sequence63BEFCEF49CC01D79ACCF9ABE5DC313C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/Cinematics/LevelTwo_CamRail_Sequence.uasset'
+[2023.03.03-14.03.02:975][150]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.03.02:975][150]LightingResults: New page: Lighting Build
+[2023.03.03-14.03.02:975][150]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2023.03.03-14.03.03:023][150]LogWorld: UWorld::CleanupWorld for Level_One_Map, bSessionEnded=true, bCleanupResources=true
+[2023.03.03-14.03.03:023][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.03.03:023][150]MapCheck: New page: Map Check
+[2023.03.03-14.03.03:023][150]LightingResults: New page: Lighting Build
+[2023.03.03-14.03.03:028][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.03-14.03.03:035][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.03-14.03.03:039][150]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2023.03.03-14.03.03:143][150]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.03-14.03.03:143][150]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.03-14.03.03:150][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.03-14.03.03:164][150]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.03-14.03.03:164][150]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2023.03.03-14.03.03:164][150]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.190
+[2023.03.03-14.03.03:183][150]AssetCheck: New page: Asset Save: LevelTwo_CamRail_Sequence
+[2023.03.03-14.03.03:183][150]LogContentValidation: Display: Validating LevelSequence /Game/Cinematics/LevelTwo_CamRail_Sequence.LevelTwo_CamRail_Sequence
+[2023.03.03-14.03.14:184][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.03.03-14.03.18:110][ 37]Cmd: DELETE
+[2023.03.03-14.03.18:110][ 37]Cmd: ACTOR DELETE
+[2023.03.03-14.03.18:112][ 37]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.03-14.03.18:117][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.03-14.03.18:121][ 37]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.03.03-14.03.27:251][560]LogActorFactory: Actor Factory created SM_grass_00
+[2023.03.03-14.03.30:828][773]LogActorFactory: Actor Factory created SM_grass_00
+[2023.03.03-14.03.44:815][593]Cmd: TRANSACTION UNDO
+[2023.03.03-14.03.44:815][593]LogEditorTransaction: Undo Move Actors
+[2023.03.03-14.03.55:146][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_grass_00)
+[2023.03.03-14.04.05:149][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Track_CartTrack)
+[2023.03.03-14.04.07:143][908]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.04.07:816][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_grass_00)
+[2023.03.03-14.04.08:189][968]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2023.03.03-14.04.18:273][567]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.04.19:293][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.03-14.04.19:360][625]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap57F15334402F78E8A9803D9110BAA7F0.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.04.19:467][625]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataE02F68DE4C561732BE4897B8ED16C22C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.04.19:505][625]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.04.19:505][625]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.04.19:505][625]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.04.21:774][759]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.03-14.04.21:784][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.03-14.04.21:784][759]PIE: New page: PIE session: ThirdPersonExampleMap (3 Mar 2023, 14:04:21)
+[2023.03.03-14.04.21:784][759]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.04.21:798][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013730s)
+[2023.03.03-14.04.21:799][759]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.03-14.04.21:800][759]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2023.03.03-14.04.21:800][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015213s)
+[2023.03.03-14.04.21:809][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.03.03-14.04.21:810][759]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.03-14.04.21:810][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.03-14.04.21:810][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.03-14.04.21:810][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.03-14.04.21:810][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.03-14.04.21:810][759]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.03-14.04.21:810][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.03-14.04.21:810][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.03-14.04.21:810][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.03-14.04.21:811][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.03-14.04.21:811][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.03-14.04.21:811][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.03-14.04.21:811][759]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.03-14.04.21:813][759]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.03-14.04.21:813][759]LogAudioMixer: Display: 1: FrontRight
+[2023.03.03-14.04.21:821][759]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.03.03-14.04.21:821][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.03-14.04.21:821][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.03-14.04.21:821][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.03-14.04.21:823][759]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.03-14.04.21:823][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.03-14.04.21:823][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.03-14.04.21:824][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.03-14.04.21:824][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.03-14.04.21:824][759]LogInit: FAudioDevice initialized.
+[2023.03.03-14.04.21:824][759]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2023.03.03-14.04.21:833][759]LogLoad: Game class is 'BP_GameMode_HUD_C'
+[2023.03.03-14.04.21:834][759]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.03-14.04.21
+[2023.03.03-14.04.21:835][759]LogWorld: Bringing up level for play took: 0.000827
+[2023.03.03-14.04.21:835][759]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.03.03-14.04.21:842][759]PIE: Server logged in
+[2023.03.03-14.04.21:844][759]PIE: Play in editor total start time 0.061 seconds.
+[2023.03.03-14.05.17:690][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.05.17:690][100]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.05.17:691][100]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.03-14.05.17:691][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.05.17:700][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.03-14.05.17:706][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.05.17:711][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.05.17:712][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.05.17:713][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.05.17:716][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.03-14.05.17:750][101]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.03.03-14.05.19:197][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.03-14.05.19:236][186]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap586CB043418BBDA91DD2ADA9F743788D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.05.19:300][186]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataF1730EF34D01BB68FE12BA8028E762D8.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.05.19:311][186]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.05.19:312][186]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.05.19:312][186]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.05.24:985][518]LogActorFactory: Actor Factory created SM_grassHill_01
+[2023.03.03-14.05.26:316][597]LogActorFactory: Actor Factory created SM_grassHill_01
+[2023.03.03-14.05.43:286][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.03-14.05.43:326][611]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMapE67D377141492F47E3C71EA5FED8342A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.05.43:392][611]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData5739277D41A25ED123CBF5B1C8D68E5F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.05.43:402][611]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.05.43:402][611]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.05.43:402][611]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.05.47:104][833]Cmd: EDIT COPY
+[2023.03.03-14.05.47:585][862]Cmd: EDIT PASTE
+[2023.03.03-14.06.03:528][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.03-14.06.03:565][814]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap1ACA6FD345FD94F8A4438E903E89418A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.06.03:629][814]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData937885F64C8C03DF77F96093B889E008.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.06.03:639][814]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.06.03:639][814]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.06.03:639][814]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.06.04:643][874]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.03-14.06.04:653][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.03-14.06.04:653][874]PIE: New page: PIE session: ThirdPersonExampleMap (3 Mar 2023, 14:06:04)
+[2023.03.03-14.06.04:653][874]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.06.04:664][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010286s)
+[2023.03.03-14.06.04:665][874]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.03-14.06.04:665][874]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2023.03.03-14.06.04:665][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011731s)
+[2023.03.03-14.06.04:671][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.03.03-14.06.04:672][874]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.03-14.06.04:672][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.03-14.06.04:672][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.03-14.06.04:672][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.03-14.06.04:672][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.03-14.06.04:672][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.03-14.06.04:672][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.03-14.06.04:672][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.03-14.06.04:672][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.03-14.06.04:673][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.03-14.06.04:673][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.03-14.06.04:673][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.03-14.06.04:673][874]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.03-14.06.04:674][874]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.03-14.06.04:674][874]LogAudioMixer: Display: 1: FrontRight
+[2023.03.03-14.06.04:682][874]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.03.03-14.06.04:682][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.03-14.06.04:682][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.03-14.06.04:682][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.03-14.06.04:683][874]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.03-14.06.04:683][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.03-14.06.04:683][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.03-14.06.04:684][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.03-14.06.04:684][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.03-14.06.04:684][874]LogInit: FAudioDevice initialized.
+[2023.03.03-14.06.04:684][874]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2023.03.03-14.06.04:688][874]LogLoad: Game class is 'BP_GameMode_HUD_C'
+[2023.03.03-14.06.04:690][874]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.03-14.06.04
+[2023.03.03-14.06.04:690][874]LogWorld: Bringing up level for play took: 0.000904
+[2023.03.03-14.06.04:690][874]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2023.03.03-14.06.04:693][874]PIE: Server logged in
+[2023.03.03-14.06.04:693][874]PIE: Play in editor total start time 0.042 seconds.
+[2023.03.03-14.06.13:430][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.06.13:430][395]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.06.13:431][395]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.03-14.06.13:431][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.06.13:446][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.03-14.06.13:463][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.06.13:471][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.06.13:472][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.06.13:475][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.06.13:482][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.03.03-14.06.13:554][396]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.03.03-14.06.14:684][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.03-14.06.14:721][461]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap8732646B49607F28C6252EBDF10ED706.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.06.14:787][461]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData51DBE0254CBBD80C81BF10AD5EA7CE1E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.06.14:798][461]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.06.14:799][461]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.06.14:799][461]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.06.24:774][ 53]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.03-14.06.29:612][342]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.06.30:428][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_grass_00)
+[2023.03.03-14.06.31:053][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_grass_00)
+[2023.03.03-14.06.31:474][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_grass_00)
+[2023.03.03-14.06.34:718][641]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.03-14.06.38:986][896]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.03-14.06.42:391][100]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.03-14.06.43:537][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.03-14.06.43:586][166]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap985F57C3413D6A777ADA40964278C62C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.06.43:654][166]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData12D531CC4FE015F48F64389472DCF4D2.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.06.43:666][166]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.06.43:666][166]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.06.43:666][166]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.06.44:414][211]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.03-14.06.44:428][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.03-14.06.44:428][211]PIE: New page: PIE session: ThirdPersonExampleMap (3 Mar 2023, 14:06:44)
+[2023.03.03-14.06.44:429][211]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.06.44:443][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014681s)
+[2023.03.03-14.06.44:444][211]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.03-14.06.44:445][211]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2023.03.03-14.06.44:445][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016020s)
+[2023.03.03-14.06.44:451][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.03.03-14.06.44:452][211]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.03-14.06.44:452][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.03-14.06.44:452][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.03-14.06.44:452][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.03-14.06.44:452][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.03-14.06.44:452][211]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.03-14.06.44:452][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.03-14.06.44:452][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.03-14.06.44:452][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.03-14.06.44:452][211]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.03-14.06.44:452][211]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.03-14.06.44:452][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.03-14.06.44:452][211]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.03-14.06.44:454][211]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.03-14.06.44:454][211]LogAudioMixer: Display: 1: FrontRight
+[2023.03.03-14.06.44:463][211]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.03.03-14.06.44:463][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.03-14.06.44:463][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.03-14.06.44:463][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.03-14.06.44:464][211]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.03-14.06.44:464][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.03-14.06.44:464][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.03-14.06.44:465][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.03-14.06.44:465][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.03-14.06.44:465][211]LogInit: FAudioDevice initialized.
+[2023.03.03-14.06.44:465][211]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2023.03.03-14.06.44:474][211]LogLoad: Game class is 'BP_GameMode_HUD_C'
+[2023.03.03-14.06.44:475][211]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.03-14.06.44
+[2023.03.03-14.06.44:475][211]LogWorld: Bringing up level for play took: 0.000802
+[2023.03.03-14.06.44:475][211]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.03.03-14.06.44:478][211]PIE: Server logged in
+[2023.03.03-14.06.44:479][211]PIE: Play in editor total start time 0.052 seconds.
+[2023.03.03-14.06.49:182][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.06.49:182][489]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.06.49:182][489]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.03-14.06.49:183][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.06.49:190][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.03-14.06.49:198][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.06.49:203][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.06.49:203][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.06.49:204][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.06.49:208][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.03-14.06.49:266][491]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.03.03-14.06.50:368][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.03-14.06.50:402][556]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap95A25A2D4C7D29B97DA09F93F26FE94C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.06.50:465][556]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData1890576F4C47A2E75AAC82A083F64C54.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.06.50:475][556]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.06.50:475][556]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.06.50:476][556]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.07.04:068][339]LogActorFactory: Actor Factory created SM_veranda_02
+[2023.03.03-14.07.06:693][494]LogActorFactory: Actor Factory created SM_veranda_02
+[2023.03.03-14.07.23:222][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.03.03-14.07.23:260][476]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMapA5BFD7844A658F0F031AF5927F6F0B47.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.07.23:324][476]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataEE028CFA46A122742037DB8474611945.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.07.23:335][476]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.07.23:335][476]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.07.23:335][476]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.07.24:209][528]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.03-14.07.24:218][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.03-14.07.24:220][528]PIE: New page: PIE session: ThirdPersonExampleMap (3 Mar 2023, 14:07:24)
+[2023.03.03-14.07.24:241][528]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.07.24:252][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011401s)
+[2023.03.03-14.07.24:253][528]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.03-14.07.24:253][528]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2023.03.03-14.07.24:253][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012789s)
+[2023.03.03-14.07.24:260][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.03.03-14.07.24:260][528]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.03-14.07.24:260][528]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.03-14.07.24:260][528]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.03-14.07.24:260][528]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.03-14.07.24:260][528]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.03-14.07.24:260][528]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.03-14.07.24:260][528]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.03-14.07.24:260][528]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.03-14.07.24:260][528]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.03-14.07.24:260][528]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.03-14.07.24:261][528]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.03-14.07.24:261][528]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.03-14.07.24:261][528]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.03-14.07.24:262][528]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.03-14.07.24:263][528]LogAudioMixer: Display: 1: FrontRight
+[2023.03.03-14.07.24:270][528]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.03.03-14.07.24:271][528]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.03-14.07.24:271][528]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.03-14.07.24:271][528]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.03-14.07.24:271][528]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.03-14.07.24:271][528]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.03-14.07.24:271][528]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.03-14.07.24:272][528]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.03-14.07.24:272][528]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.03-14.07.24:272][528]LogInit: FAudioDevice initialized.
+[2023.03.03-14.07.24:272][528]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2023.03.03-14.07.24:279][528]LogLoad: Game class is 'BP_GameMode_HUD_C'
+[2023.03.03-14.07.24:280][528]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.03-14.07.24
+[2023.03.03-14.07.24:280][528]LogWorld: Bringing up level for play took: 0.000829
+[2023.03.03-14.07.24:280][528]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.03.03-14.07.24:283][528]PIE: Server logged in
+[2023.03.03-14.07.24:283][528]PIE: Play in editor total start time 0.066 seconds.
+[2023.03.03-14.07.29:713][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.07.29:713][850]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.07.29:713][850]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.03-14.07.29:713][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.07.29:724][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.03-14.07.29:737][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.07.29:742][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.07.29:742][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.07.29:743][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.07.29:747][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.03-14.07.29:783][851]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.03.03-14.07.38:725][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_grass_00)
+[2023.03.03-14.07.38:940][396]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.03-14.07.38:952][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.03-14.07.38:953][396]PIE: New page: PIE session: ThirdPersonExampleMap (3 Mar 2023, 14:07:38)
+[2023.03.03-14.07.38:953][396]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.07.38:971][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018335s)
+[2023.03.03-14.07.38:972][396]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.03-14.07.38:973][396]LogPlayLevel: PIE: World Init took: (0.001819s)
+[2023.03.03-14.07.38:973][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020387s)
+[2023.03.03-14.07.38:985][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.03.03-14.07.38:988][396]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.03-14.07.38:990][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.03-14.07.38:990][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.03-14.07.38:990][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.03-14.07.38:990][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.03-14.07.38:990][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.03-14.07.38:990][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.03-14.07.38:990][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.03-14.07.38:990][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.03-14.07.38:991][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.03-14.07.38:991][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.03-14.07.38:991][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.03-14.07.38:991][396]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.03-14.07.38:993][396]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.03-14.07.38:993][396]LogAudioMixer: Display: 1: FrontRight
+[2023.03.03-14.07.39:007][396]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.03.03-14.07.39:008][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.03-14.07.39:008][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.03-14.07.39:008][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.03-14.07.39:009][396]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.03-14.07.39:009][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.03-14.07.39:009][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.03-14.07.39:010][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.03-14.07.39:011][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.03-14.07.39:011][396]LogInit: FAudioDevice initialized.
+[2023.03.03-14.07.39:011][396]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2023.03.03-14.07.39:030][396]LogLoad: Game class is 'BP_GameMode_HUD_C'
+[2023.03.03-14.07.39:033][396]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.03-14.07.39
+[2023.03.03-14.07.39:033][396]LogWorld: Bringing up level for play took: 0.002325
+[2023.03.03-14.07.39:033][396]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.03.03-14.07.39:042][396]PIE: Server logged in
+[2023.03.03-14.07.39:043][396]PIE: Play in editor total start time 0.093 seconds.
+[2023.03.03-14.07.44:882][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.07.44:882][742]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.07.44:882][742]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.03-14.07.44:883][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.07.44:889][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.03-14.07.44:901][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.07.44:906][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.07.44:906][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.07.44:907][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.07.44:912][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.03-14.07.44:975][744]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.03.03-14.07.46:042][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_veranda_02)
+[2023.03.03-14.07.48:750][969]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.08.15:128][494]Cmd: DELETE
+[2023.03.03-14.08.15:128][494]Cmd: ACTOR DELETE
+[2023.03.03-14.08.15:129][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.03-14.08.15:135][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.03-14.08.15:138][494]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.03-14.08.16:494][573]LogActorFactory: Actor Factory created SM_stairsSmall_01
+[2023.03.03-14.08.17:665][643]LogActorFactory: Actor Factory created SM_stairsSmall_01
+[2023.03.03-14.08.24:010][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_stairsSmall_01)
+[2023.03.03-14.08.26:322][160]Cmd: EDIT COPY
+[2023.03.03-14.08.26:621][178]Cmd: EDIT PASTE
+[2023.03.03-14.08.27:601][233]Cmd: EDIT PASTE
+[2023.03.03-14.09.01:805][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.03-14.09.01:843][261]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap7745F658439DE74D72D87C8552C6C184.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.09.01:909][261]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataA348FB374AE85DFCBD4484ADE6B4D8F3.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.09.01:921][261]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.09.01:922][261]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.09.01:922][261]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.09.21:477][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.03.03-14.09.21:515][416]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap0EFA6C2444381AE2276D34B52951E5CA.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.09.21:579][416]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData4B4B0C604963A34C046629AF047F9649.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.09.21:592][416]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.09.21:592][416]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.09.21:592][416]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.09.22:610][477]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.03-14.09.22:619][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.03-14.09.22:619][477]PIE: New page: PIE session: ThirdPersonExampleMap (3 Mar 2023, 14:09:22)
+[2023.03.03-14.09.22:642][477]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.09.22:654][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012734s)
+[2023.03.03-14.09.22:655][477]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.03-14.09.22:655][477]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2023.03.03-14.09.22:655][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014066s)
+[2023.03.03-14.09.22:663][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.03-14.09.22:664][477]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.03-14.09.22:664][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.03-14.09.22:664][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.03-14.09.22:664][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.03-14.09.22:664][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.03-14.09.22:664][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.03-14.09.22:664][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.03-14.09.22:664][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.03-14.09.22:664][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.03-14.09.22:664][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.03-14.09.22:664][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.03-14.09.22:664][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.03-14.09.22:664][477]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.03-14.09.22:666][477]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.03-14.09.22:666][477]LogAudioMixer: Display: 1: FrontRight
+[2023.03.03-14.09.22:673][477]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.03.03-14.09.22:673][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.03-14.09.22:673][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.03-14.09.22:673][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.03-14.09.22:673][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.03-14.09.22:673][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.03-14.09.22:673][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.03-14.09.22:675][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.03-14.09.22:675][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.03-14.09.22:675][477]LogInit: FAudioDevice initialized.
+[2023.03.03-14.09.22:675][477]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2023.03.03-14.09.22:686][477]LogLoad: Game class is 'BP_GameMode_HUD_C'
+[2023.03.03-14.09.22:687][477]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.03-14.09.22
+[2023.03.03-14.09.22:688][477]LogWorld: Bringing up level for play took: 0.000926
+[2023.03.03-14.09.22:688][477]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.03.03-14.09.22:691][477]PIE: Server logged in
+[2023.03.03-14.09.22:691][477]PIE: Play in editor total start time 0.073 seconds.
+[2023.03.03-14.09.26:883][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.09.26:883][724]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.09.26:884][724]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.03-14.09.26:884][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.09.26:891][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.03-14.09.26:902][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.09.26:907][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.09.26:907][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.09.26:908][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.09.26:912][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.03-14.09.26:945][725]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.03.03-14.09.28:300][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_stairsSmall_3)
+[2023.03.03-14.09.43:255][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.03.03-14.09.43:302][687]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap4386FFBD4B4A75A35255B4A19AD421F1.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.09.43:392][687]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData3B94E1A74E90264C6E9090B5B7F45221.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.09.43:406][687]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.09.43:406][687]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.09.43:406][687]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.09.44:234][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_grass_00)
+[2023.03.03-14.10.01:129][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.03-14.10.01:164][740]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMapEB13D88A454593C898731E97FFFEA93E.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.10.01:228][740]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData87324B874FDD1D7CB781F384E2BF9341.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.10.01:240][740]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.10.01:240][740]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.10.01:240][740]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.10.09:008][181]LogActorFactory: Actor Factory created SM_floor_01_quarter
+[2023.03.03-14.10.12:226][369]LogActorFactory: Actor Factory created SM_floor_01_quarter
+[2023.03.03-14.10.15:638][570]Cmd: DELETE
+[2023.03.03-14.10.15:638][570]Cmd: ACTOR DELETE
+[2023.03.03-14.10.15:639][570]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.03-14.10.15:645][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.03.03-14.10.15:647][570]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.03.03-14.10.17:127][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.03-14.10.17:161][657]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap8FC72A2A43890326FE8C98ABC020DA70.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.10.17:225][657]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData6F08A4C14127813AB8BA75BED6032BF2.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.10.17:237][657]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.10.17:237][657]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.10.17:237][657]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.10.17:882][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_stairsSmall_2)
+[2023.03.03-14.10.19:204][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.03-14.10.19:240][773]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap505B7C1348BD29D76625FF8A5F77ADD5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.10.19:308][773]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataB2A4B3734CB1F18E9F1844883F6ED887.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.10.19:320][773]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.10.19:320][773]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.10.19:320][773]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.10.20:848][865]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.03-14.10.20:859][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.03-14.10.20:859][865]PIE: New page: PIE session: ThirdPersonExampleMap (3 Mar 2023, 14:10:20)
+[2023.03.03-14.10.20:882][865]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.10.20:895][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012319s)
+[2023.03.03-14.10.20:896][865]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.03.03-14.10.20:896][865]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2023.03.03-14.10.20:896][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013753s)
+[2023.03.03-14.10.20:902][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.03.03-14.10.20:903][865]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.03-14.10.20:903][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.03-14.10.20:903][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.03-14.10.20:903][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.03-14.10.20:903][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.03-14.10.20:903][865]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.03-14.10.20:903][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.03-14.10.20:904][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.03-14.10.20:904][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.03-14.10.20:904][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.03-14.10.20:904][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.03-14.10.20:904][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.03-14.10.20:904][865]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.03-14.10.20:906][865]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.03-14.10.20:906][865]LogAudioMixer: Display: 1: FrontRight
+[2023.03.03-14.10.20:917][865]LogAudioMixer: Display: Using Audio Device HP X24ih (NVIDIA High Definition Audio)
+[2023.03.03-14.10.20:918][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.03-14.10.20:918][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.03-14.10.20:918][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.03-14.10.20:918][865]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.03-14.10.20:918][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.03-14.10.20:918][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.03-14.10.20:919][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.03-14.10.20:919][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.03-14.10.20:919][865]LogInit: FAudioDevice initialized.
+[2023.03.03-14.10.20:919][865]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2023.03.03-14.10.20:925][865]LogLoad: Game class is 'BP_GameMode_HUD_C'
+[2023.03.03-14.10.20:927][865]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2023.03.03-14.10.20
+[2023.03.03-14.10.20:927][865]LogWorld: Bringing up level for play took: 0.000866
+[2023.03.03-14.10.20:927][865]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.03.03-14.10.20:930][865]PIE: Server logged in
+[2023.03.03-14.10.20:930][865]PIE: Play in editor total start time 0.073 seconds.
+[2023.03.03-14.10.30:964][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.10.30:964][460]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.03.03-14.10.30:965][460]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.03-14.10.30:965][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.10.30:976][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.03-14.10.30:988][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.03-14.10.30:993][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.03-14.10.30:994][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.10.30:995][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.03-14.10.30:999][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.03-14.10.31:033][461]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.03.03-14.10.31:871][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.03-14.10.31:907][508]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMapF3D649804DF4A28AEB47AAB7D9FAE05D.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.10.31:972][508]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataF9A453E84E7E08A5C16D968A2F2713AE.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.10.31:984][508]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.10.31:984][508]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.10.31:984][508]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.12.46:423][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.03.03-14.12.46:463][549]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap53F30DB242E8703EEF995FA284EB34AD.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.12.46:530][549]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataE64936E140F94FF19A4DBEAB8EC069F5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.12.46:541][549]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.12.46:541][549]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.12.46:541][549]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.12.54:243][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.03.03-14.12.54:279][  8]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap0C569B4C4C1B79068CB933AE9DCBD709.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.12.54:354][  8]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataA5AF5FBB47B32597A176B1A487A322F2.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.12.54:376][  8]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.12.54:376][  8]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.12.54:376][  8]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.12.55:646][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Track_CartTrack)
+[2023.03.03-14.13.30:868][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.03-14.13.30:910][ 72]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap83CFF80B48CB81F7838A5098117DE55F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.13.30:976][ 72]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData0C24C46F4B682E2EF4FBB69C3F6EDE0F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.13.30:987][ 72]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.13.30:987][ 72]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.13.30:987][ 72]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.13.36:487][396]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.13.38:126][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Track_CartTrack)
+[2023.03.03-14.13.38:786][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Track_CartTrack)
+[2023.03.03-14.13.43:186][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.03-14.13.43:225][786]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap1AB90D164F4140EF375CB7B8DDE037D4.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.13.43:290][786]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData9E35ED7048981951A08D6EAB7C32FE63.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.13.43:303][786]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.13.43:303][786]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.13.43:303][786]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.13.45:914][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.03-14.13.45:951][941]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap4D9D87E94B3D70818A1789A56EFE0888.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.13.46:015][941]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData0426A2AD4451B68A311D79951E081A0F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.13.46:028][941]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.13.46:028][941]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.13.46:028][941]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.14.09:722][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.03-14.14.09:763][315]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMapAA6402944D3B3FA9463E28A68F9DF9E0.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.14.09:828][315]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataEAB4D18D4773C9D90513B68091B00C33.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.14.09:838][315]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.14.09:838][315]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.14.09:838][315]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.14.10:465][353]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.14.12:316][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.03-14.14.12:354][461]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap7A5E9164472A75342F33069921E65434.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.14.12:419][461]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData4AAB75734407D0CB8B47E1B5338377E8.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.14.12:432][461]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.14.12:432][461]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.14.12:432][461]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.14.15:178][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.03-14.14.17:150][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.03-14.14.17:334][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.03-14.14.17:484][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.03-14.14.18:204][799]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.14.21:184][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.03.03-14.14.21:220][976]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap34E8E2CC4528C27BF8A919BE733A2D27.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.14.21:285][976]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData6C0C006548FA023913B439B501AB2241.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.14.21:296][976]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.14.21:296][976]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.14.21:296][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.14.22:034][ 20]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.15.10:974][841]LogActorFactory: Actor Factory created SM_tree_04
+[2023.03.03-14.15.11:870][893]LogActorFactory: Actor Factory created SM_tree_04
+[2023.03.03-14.15.12:423][921]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.13:264][968]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.18:513][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_tree_04)
+[2023.03.03-14.15.20:693][387]Cmd: DELETE
+[2023.03.03-14.15.20:693][387]Cmd: ACTOR DELETE
+[2023.03.03-14.15.20:695][387]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.03-14.15.20:700][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.03-14.15.20:704][387]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.03.03-14.15.21:791][447]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.23:135][527]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.24:058][579]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.25:552][667]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.26:824][736]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.27:943][801]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.31:470][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_treeLowPoly_2)
+[2023.03.03-14.15.34:004][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.03-14.15.34:044][155]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap472C45014F3900B8DD0052B44F6C5F3C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.15.34:110][155]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataD548314B4D7A62813C4A2AA0B8585245.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.15.34:121][155]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.15.34:121][155]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.15.34:121][155]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.15.35:441][227]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.36:538][290]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.41:991][606]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.42:823][655]LogActorFactory: Actor Factory created SM_treeLowPoly_01
+[2023.03.03-14.15.47:461][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_treeLowPoly_5)
+[2023.03.03-14.15.50:356][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.03.03-14.15.50:395][ 99]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMapB5A3ED6E4884D8E83D61168D26CEE555.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.15.50:459][ 99]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataB027AF58405D78D9ABFDF884CF3C3CBF.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.15.50:469][ 99]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.15.50:469][ 99]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.15.50:469][ 99]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.15.50:710][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.03-14.15.50:748][113]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMapD828A7B44F4AD61DFE69F9810A5FE26F.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.15.50:813][113]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData825F431C4DA5D773C80754AB9F9AF066.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.15.50:823][113]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.15.50:823][113]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.15.50:823][113]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.16.10:495][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.03.03-14.16.10:533][290]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap887626A449D4BF54EBFD8782558AF80A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.16.10:598][290]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataFB0F22024E25BCEEFE2B4697C950FA77.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.16.10:608][290]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.16.10:608][290]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.16.10:608][290]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.16.15:041][549]LogActorFactory: Actor Factory created SM_rock_01
+[2023.03.03-14.16.16:119][611]LogActorFactory: Actor Factory created SM_rock_01
+[2023.03.03-14.16.27:159][256]LogActorFactory: Actor Factory created SM_rock_01
+[2023.03.03-14.16.27:724][289]LogActorFactory: Actor Factory created SM_rock_01
+[2023.03.03-14.16.34:258][672]LogActorFactory: Actor Factory created SM_rock_01
+[2023.03.03-14.16.35:374][738]LogActorFactory: Actor Factory created SM_rock_01
+[2023.03.03-14.16.42:091][132]Cmd: TRANSACTION UNDO
+[2023.03.03-14.16.42:092][132]LogEditorTransaction: Undo Move Actors
+[2023.03.03-14.16.46:543][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.03-14.16.46:582][385]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap1521678045B8F26A606358871028B889.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.16.46:646][385]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataC79277C3464D29EF22C5059220BDFD4A.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.16.46:658][385]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.16.46:659][385]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.16.46:659][385]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.16.47:694][447]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.16.49:009][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.03.03-14.16.49:045][522]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap7BC7A78341EA6D73503AF79048884BC7.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.16.49:109][522]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataAE0E69D2467082075C8E4EAF731AD148.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.16.49:118][522]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.16.49:119][522]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.16.49:119][522]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.16.50:360][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_rock_3)
+[2023.03.03-14.16.54:071][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.03-14.16.54:108][813]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap8F01B54249F94D746017D888DC74FAA5.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.16.54:172][813]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataCD213DF14AEDBE618B3F77A72EE4B46C.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.16.54:182][813]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.16.54:182][813]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.16.54:182][813]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.17.40:326][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.03-14.17.40:366][571]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap2A663894418687C1C804658FDBC302DF.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.17.40:432][571]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltData299C25E34C8B9442A0B3F3A3D969F786.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.17.40:441][571]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.17.40:441][571]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.17.40:441][571]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.03.03-14.17.41:274][618]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.17.42:111][667]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.17.42:520][691]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.17.43:578][754]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.17.43:937][775]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.17.44:212][791]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.17.44:539][809]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.17.45:094][838]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2023.03.03-14.17.46:062][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.03-14.17.46:100][894]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap62D3D57D488732D847ACB486682B76DC.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.03.03-14.17.46:164][894]LogSavePackage: Moving '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Saved/ThirdPersonExampleMap_BuiltDataD912CB6B4BCE5511E6E4A3B409352A40.tmp' to '../../../../../../Users/Jack/Documents/GitHub/UnrealProg/ProgressiveGamesProject/ProgGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.03.03-14.17.46:174][894]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-14.17.46:174][894]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.03.03-14.17.46:174][894]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
